@@ -11,7 +11,7 @@ redirect_from:
 # Hi! I'm Louis, an atmospheric scientist
 
 <div style="text-align: center;">
-  <img src="../images/STJ_website_trippy.gif" alt="" style="width:75%;">
+  <img src="../images/PFJ_LR_JC_inferno.gif" alt="" style="width:75%;">
 </div>
 
 <div style="text-align: left;">
