@@ -11,7 +11,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-### Jets and atmospheric transport
+## Jets and atmospheric transport
 ![ ](../images/transport.png)
 Gases and particulates are transported far from their origins by the atmosphere and its strongest currents (the jet streams), affecting atmospheric chemistry, air quality, and climate. However, transport processes are subject to large errors in climate models, in part because numerical models are overly diffusive. In parallel, changes in the behavior of the jets in response to human activity remain uncertain. This has important implications for the validity of climate projections, especially when considering that chemical and dynamical processes can be highly nonlinear and lead to very large errors. My research in this area is primarily driven by the following questions:
 
@@ -20,7 +20,7 @@ Gases and particulates are transported far from their origins by the atmosphere 
 
 ---
 
-### Emergence of climate trends
+## Emergence of climate trends
 ![ ](../images/toe.png)
 
 The planet is [warming](https://www.climate.gov/news-features/understanding-climate/climate-change-global-temperature), but some associated long-term changes remain difficult to confirm observationally (e.g., shifts in the jets, changes in the Brewer-Dobson Circulation and in the Atlantic Meridional Overturning Circulation). The primary reasons for this are simple:
@@ -37,7 +37,7 @@ I developed a [new method](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1
 
 ---
 
-### Stratospheric ozone and circulation
+## Stratospheric ozone and circulation
 ![ ](../images/stratosphere.png)
 Without the stratospheric ozone layer, life on Earth would likely be severely inhibited due to harmful ultraviolet (UV) radiation exposure. The [ozone hole](https://ozonewatch.gsfc.nasa.gov/facts/hole_SH.html) has understandably garnered tremendous scientific concern. Its recovery since the 2000s is the object of ongoing research and monitoring, and some questions remain open:
 
@@ -49,13 +49,13 @@ I have also contributed to the development of a new satellite mission at Caltech
 
 ---
 
-### Tropical cyclones in future climates
+## Tropical cyclones in future climates
 ![ ](../images/TC.png)
 As the planet warms globally, regional changes also occur. In the context of tropical cyclones, this could mean that the regions where they form, intensify, and eventually make landfall could change over time. A [project](https://ams.confex.com/ams/34HURR/meetingapp.cgi/Paper/386675) in collaboration with Purdue and NOAA will look at future scenarios to inform adaptation and mitigation planning.
 
 Tropical cyclones have historically been studied from the surface up, mostly because of the extensive damage they produce at the surface. However, tropical cyclones also affect the upper atmosphere around them, with climate impacts that are still  uncertain. I provided a new [detailed look](https://lrivoire.github.io/publication/2016-09-24-evolution) at cold anomalies found above tropical cyclones, and [ruled out](https://lrivoire.github.io/publication/2020-06-18-quantifying) the effect of clouds as the main driver of these cold anomalies. New studies have delved into mechanisms that explain this cooling, but the effects of the cooling on the cyclones themselves, if any, remain an open question.
 <!-- on meso- to synoptic scales, change is expected in both the tropical cyclogenesis (where and when cyclones form) and in the so-called "steering flow" (where cyclones go). Climate simulations lend themselves well to analyzing changes in the steering flow--however, doing so has thus far involved combining complex vortex tracking algorithms, downscaling techniques, and compositing techniques. While these tools have been useful in making projections, their reliance on empirical, arbitrary, or even model-dependent parameters makes them subject to hidden sensitivities and limited reproducibility. In addition to these shortcomings, climate simulations are not designed to capture the processes at play in tropical cyclogenesis, making risk projections more uncertain. Thus, questions about future tropical cyclone risk remain undoubtedly open, calling for an approach focused on isolating the mechanisms that explain the projected changes. Answers to these questions will inform where and when tropical cyclone risk may reach new areas, a problem of particular importance to low-lying nations and to coastal populations. I am currently working with collaborators at Purdue and NOAA, using a combination of synthetic tropical cyclone trajectories, climate simulations, the historical record of tropical cyclone tracks, and a novel application of multivariate analysis. [Initial results](https://ams.confex.com/ams/34HURR/meetingapp.cgi/Paper/386675) were presented at the AMS 34th Conference on Hurricanes and Tropical Meteorology (May 2021). We are also using so-called geo-engineering scenarios from the [GeoMIP archive](http://climate.envsci.rutgers.edu/geomip/) as a way to quantify the uncertainties and risks associated with the unintended consequences of solar radiation management techniques. -->
 
- <!-- ### Tropical cyclone structure and dynamics
+ <!-- ## Tropical cyclone structure and dynamics
 ![1](../images/TC2.png)
  <!-- impacts unfold at the surface, and in part because of the historical scarcity of upper-air observations above open waters.  With the advent of unmanned aircrafts and limb scanning spaceborne instruments, upper-air observations have become more readily available; for example, GPS radio occultation technology now allows the retrieval of the temperature structure in the upper troposphere and lower stratosphere (UTLS) globally, with ~100 m vertical resolution, ~0.1 K accuracy, and in all weather conditions. These data reveal the presence of a ubiquitous, synoptic-scale layer of [cold air near the tropopause above tropical cyclones](https://lrivoire.github.io/publication/2016-09-24-evolution) (and other convective systems), which I call tropopause layer cooling (TLC). The existence of this signal had been documented as early as the 1940s, but its detailed structure and evolution over the lifetime of tropical cyclones had remained unknown until recently. More importantly, the origins of TLC and its potential impacts on the development of the storm below still remain uncertain. Several mechanisms have been proposed to explain TLC, including diabatic cooling at the top of the cloud canopy, and adiabatic cooling due to ascent and divergence. We now know that [cloud radiative effects are unlikely to explain TLC](https://lrivoire.github.io/publication/2020-06-18-quantifying), and I am conducting ongoing research into the mechanisms that main explain ascent and divergence near the tropopause. As to the potential impacts of TLC on the storm below, they include increased potential intensity, turbulence in the outflow layer, heightened clouds, and possible effects on subsequent convection (after the storm has passed). A hierarchical approach with idealized simulations will be necessary to disentangle these effects. -->
