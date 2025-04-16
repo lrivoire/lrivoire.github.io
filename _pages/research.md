@@ -11,25 +11,31 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-### Atmospheric transport and jet streams
+### Jets and atmospheric transport
 ![ ](../images/transport.png)
 Gases and particulates are transported on large scales by the atmosphere, affecting atmospheric chemistry, air quality, and climate. I am particularly interested in:
 
-* Long-term changes in the behavior of the jet streams. I am developing an improved jet tracking algorithm (called [JetLag](https://lrivoire.github.io/JetLag)) in collaboration with [Dr. Jezabel Curbelo](https://web.mat.upc.edu/jezabel.curbelo/) to take a new look at this issue.
+* Long-term changes in the behavior of the jet streams. I have developed an improved jet definition tracking algorithm (called [JetLag](https://lrivoire.github.io/JetLag)) in collaboration with [Dr. Jezabel Curbelo](https://web.mat.upc.edu/jezabel.curbelo/) to take a new look at this issue.
 * Intercontinental transport of urban and biomass burning emissions. I am working with [Dr. Arlene Fiore](https://www.teampaccc.mit.edu/) and [Dr. Sebastian Eastham](https://www.imperial.ac.uk/people/s.eastham) to understand how the atmosphere transports and disperses pollutants, using satellite data and advanced techniques in nonlinear dynamics.<!-- My research in this area focuses on the transport of ozone between two atmospheric reservoirs with drastically different properties: the troposphere (humid and poor in ozone) and the stratosphere (very dry and rich in ozone). Sometimes, air parcels that originate in the stratosphere travel downward through the tropopause and into the troposphere, sometimes all the way down to the surface, bringing large amounts of ozone to areas that normally exhibit low concentrations of it. This process is called "tropopause folding" or "stratospheric intrusions" and can trigger air quality issues that affect human and ecosystem health, and agricultural yields. To date, we are unsure how the downward transport of ozone associated with stratospheric intrusions may change in the future. Changes in the transport may be dominated by a) changes in the composition of the lower stratosphere, or b) changes in the frequency of stratospheric intrusions. The main challenge in addressing this issue comes from limited satellite coverage and resolution. I am currently collaborating with Universitat Politècnica de Catalunya to develop JetLag, a new jet tracking algorithm that will be the first stepping stone toward taking a new look at this issue. JetLag uses Lagrangian descriptors of the general circulation to produce improved jet coordinate products that are useful in locating stratospheric intrusions. We're also using machine learning to make use of widely available total column ozone retrievals and establish an observational baseline for the ozone transport associated with stratospheric intrusions. Initial results were presented at the [2022 EGU General Assembly](https://meetingorganizer.copernicus.org/EGU22/EGU22-8959.html), and at the [SPARC General Assembly](https://lrivoire.github.io/talks/2022-10-24-talk). Sign up for the JetLag mailing list [here](https://lrivoire.github.io/JetLag).-->
 
 ---
 
-### Emergence of climate signals
+### Emergence of climate trends
 ![ ](../images/toe.png)
 
-The planet is [warming](https://www.climate.gov/news-features/understanding-climate/climate-change-global-temperature), but certain detailed aspects of the consequences of this warming remain difficult to assess. The primary reasons for this are simple:
+The planet is [warming](https://www.climate.gov/news-features/understanding-climate/climate-change-global-temperature), but some associated long-term changes remain difficult to confirm observationally (e.g., shifts in the jets, changes in the Brewer-Dobson Circulation and in the Atlantic Meridional Overturning Circulation). The primary reasons for this are simple:
 
-1) The climate system is full of random noise, and it is sometimes difficult to separate the signal from the noise;
+1) The climate system is noisy, making it difficult to distinguish trends from noise,
 
-2) Our observations of the climate system are far from perfect -- they have gaps, biases, and their quality changes over time.
+2) Our observations of the climate system are sometimes sparse, making it difficult to see the full picture.
 
-Co-authors and I developed a [new method](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024GL109638) to assess the degree of confidence we should place in long-term trends observed in our historical records, accounting for the effects of climate noise and observational uncertainties.
+In order to determine whether a trend is 'real' or an artifact, the signal (S) to noise (N) ratio is often used: when S/N>2, the signal (trend) is said to be statistically different from zero. However, there are a few issues with this approach:
+
+* It is based on a heuristic which approximates a 95% confidence test, but is not rigorous or generalizable,
+* It tests the null hypothesis of zero change ("Is the observed change large enough compared to zero"), which is not relevant when change is already thought to occur, 
+* It does not account for gaps/errors in observations.
+
+When we suspect that change is happening because of human activity, and when we want to confirm it using observations, the questions we need to answer are: 1) Have we collected enough data? 2) Is the observed change large enough compared to random fluctuations of the climate system? Co-authors and I developed a [new method](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024GL109638) to answer these questions and properly assess the degree of confidence we should place in long-term trends calculated from historical records. The method has been used in a [review paper](https://doi.org/10.1029/2023RG000832) regarding long-term changes in the stratospheric circulation, and in a [paper](https://doi.org/10.5194/acp-25-2269-2025) about the on-going recovery of the ozone layer.
 
 ---
 
