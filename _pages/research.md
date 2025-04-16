@@ -11,7 +11,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-## Jets and atmospheric transport
+## Atmospheric transport
 ![ ](../images/transport.png)
 Gases and particulates are transported far from their origins by the atmosphere and its strongest currents (the jet streams), affecting atmospheric chemistry, air quality, and climate. However, transport processes are subject to large errors in climate models, in part because numerical models are overly diffusive. In parallel, changes in the behavior of the jets in response to human activity remain uncertain. This has important implications for the validity of climate projections, especially when considering that chemical and dynamical processes can be highly nonlinear and lead to very large errors. My research in this area is primarily driven by the following questions:
 
@@ -33,13 +33,13 @@ In order to determine whether a trend is 'real' or an artifact, we need to answe
 * **Have we collected enough data?**
 * **Are observed changes significantly larger than random fluctuations of the climate system?**
 
-I developed a [new method](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024GL109638) with collaborators to answer these questions and properly assess the degree of confidence we should place in long-term trends calculated from historical records. The method has already been applied to long-term trends in [the stratospheric circulation](https://doi.org/10.1029/2023RG000832) and [the ozone layer](https://doi.org/10.5194/acp-25-2269-2025).
+I developed a [new method](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024GL109638) with collaborators to answer these questions and properly assess the degree of confidence we should place in long-term trends calculated from historical records. The method has already been applied to long-term trends in the [stratospheric circulation](https://doi.org/10.1029/2023RG000832) and the [ozone layer](https://doi.org/10.5194/acp-25-2269-2025).
 
 ---
 
-## Atmospheric composition and circulation
+## Atmospheric composition
 ![ ](../images/stratosphere.png)
-Without the stratospheric ozone layer, life on Earth would likely be severely limited by ultraviolet (UV) radiation exposure. The [ozone hole](https://ozonewatch.gsfc.nasa.gov/facts/hole_SH.html) has understandably garnered tremendous scientific concern. Its recovery since the 2000s is the object of ongoing research and monitoring. Ozone is also a concern in the troposphere, particularly in the upper tropical troposphere where it acts as a potent greenhouse gas. Multiple factors contribute to changes in ozone abundances there, making it challenging to attribute observed trends to specific processes. Some questions I am working to address include:
+Without the stratospheric ozone layer, life on Earth would likely be severely limited by ultraviolet (UV) radiation exposure. The [ozone hole](https://ozonewatch.gsfc.nasa.gov/facts/hole_SH.html) has understandably garnered tremendous scientific concern. Its recovery since the 2000s is the object of ongoing research and monitoring, in particular, the interaction between the ozone layer and the stratospheric circulation. Ozone is also a concern in the troposphere, particularly in the upper tropical troposphere where it acts as a potent greenhouse gas. Multiple factors contribute to changes in ozone abundances there, making it challenging to attribute observed trends to specific processes. Some questions I am working to address include:
 
 * **Are expected changes in the strength of the stratospheric circulation detectable using observations?** Some of my work appears in a [review paper](https://doi.org/10.1029/2023RG000832) and uses the time of emergence framework described above to answer this question. I have also contributed to the development of a new satellite mission at Caltech's Jet Propulsion Laboratory to monitor the circulation of the stratosphere and its connection with its composition.
 * **What degree of confidence should we place in long-term ozone trends seen by satellites?** A [study](https://doi.org/10.5194/acp-25-2269-2025) I led with collaborators from JPL, Harvard, and GFDL showed that some satellites, contrary to expectations, provide a distorded view of long-term changes in stratospheric ozone. This may help to explain large uncertainties in recent literature.
@@ -48,9 +48,9 @@ Without the stratospheric ozone layer, life on Earth would likely be severely li
 
 ---
 
- <!-- ## Extreme events in future climates
+## Extreme events in future climates
 ![ ](../images/TC.png)
-Floods, droughts, heatwaves, tropical cyclones, all have one thing in common. are not captured by climate models. some arising from the interplay between complex processes which are not always captured by climate models.
+Floods, droughts, heatwaves, cold spells, and tropical cyclones all have one thing in common: they are relatively rare. are not captured by climate models. some arising from the interplay between complex processes which are not always captured by climate models.
 
 As the planet warms globally, regional changes also occur. In the context of tropical cyclones, this could mean that the regions where they form, intensify, and eventually make landfall could change over time. A [project](https://ams.confex.com/ams/34HURR/meetingapp.cgi/Paper/386675) started in collaboration with Purdue and NOAA looks at future scenarios to inform adaptation and mitigation planning.
 
