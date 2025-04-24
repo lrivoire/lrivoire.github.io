@@ -23,7 +23,7 @@ Gases and particulates are transported far from their origins by the atmosphere 
 ## Emergence of climate trends
 ![ ](../images/toe.png)
 
-The planet is [warming](https://www.climate.gov/news-features/understanding-climate/climate-change-global-temperature), but other long-term changes remain difficult to confirm observationally (e.g., shifts in the jets, changes in the Brewer-Dobson Circulation and in the Atlantic Meridional Overturning Circulation). After all, the climate system is noisy, making it difficult to distinguish trends from noise, and our historical records are limited in time and space, making it difficult to see the full picture. In order to determine whether a trend is 'real' or an artifact, I seek to answer the following questions:
+The planet is [warming](https://www.climate.gov/news-features/understanding-climate/climate-change-global-temperature), but some long-term changes remain difficult to confirm observationally (e.g., shifts in the jets, trends in midlatitude lower stratospheric ozone, changes in the Brewer-Dobson Circulation and in the Atlantic Meridional Overturning Circulation). After all, the climate system is noisy, making it difficult to distinguish trends from noise, and our historical records are limited in time and space, making it difficult to see the full picture. In order to determine whether a trend is 'real' or an artifact, I seek to answer the following questions:
 
 * **Have we collected enough data?**
 * **Are observed changes significantly larger than random fluctuations of the climate system?**
