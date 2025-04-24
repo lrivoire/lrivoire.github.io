@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# Hi! I'm Louis, an atmospheric scientist.
+# Welcome! I'm Louis, an atmospheric scientist.
 
 <div style="text-align: center;">
   <img src="../images/PFJ_LR_JC_inferno.gif" alt="" style="width:75%;">
