@@ -22,7 +22,7 @@ Sign up for the [JetLag mailing list](https://web.lists.fas.harvard.edu/mailman/
 
 **What is JetLag?**<br>
 
-JetLag is a jet tracking algorithm conceptualized in collaboration with [Dr. Jezabel Curbelo](https://web.mat.upc.edu/jezabel.curbelo/) (Universitat Politècnica de Catalunya/BarcelonaTech) with the financial support of [Centre de Recerca Matemàtica](https://www.crm.cat/) (Universitat Autònoma de Barcelona). [Dr. Marinna Linz](https://eps.harvard.edu/people/marianna-linz/) (Harvard University) also provided support for this project.<br>
+JetLag is a jet tracking algorithm conceptualized in collaboration with [Dr. Jezabel Curbelo](https://web.mat.upc.edu/jezabel.curbelo/) (Universitat Politècnica de Catalunya/BarcelonaTech) with the financial support of [Centre de Recerca Matemàtica](https://www.crm.cat/) (Universitat Autònoma de Barcelona). Dr. Marinna Linz (Harvard University) also provided support for this project.<br>
 JetLag relies on Lagrangian descriptors of the general circulation, hence the name.
 
 ---
