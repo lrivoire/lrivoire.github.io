@@ -15,6 +15,8 @@ Professional Experience
 ======
 Postdoctoral Associate, MIT, 2024-present
 
+Flight mission consultant, JPL/Caltech, 2021-2023 
+
 Postdoctoral Fellow, Harvard, 2020-2024
 
 Education
