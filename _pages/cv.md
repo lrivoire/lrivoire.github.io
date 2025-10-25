@@ -11,6 +11,12 @@ redirect_from:
 
 Download my [CV](/files/CV.pdf) (most up to date information).
 
+Professional Experience
+======
+Postdoctoral Associate, MIT, 2024-present
+
+Postdoctoral Fellow, Harvard, 2020-2024
+
 Education
 ======
 Ph.D in Atmospheric Science, Colorado State University, 2020
