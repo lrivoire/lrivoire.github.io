@@ -11,7 +11,8 @@ redirect_from:
 <h1 align="center">Welcome!<br>I am an environmental scientist and applied mathematician.</h1>
 
 <div style="text-align: center;">
-  <img src="../images/video_website_aqua.gif" alt="" style="width:75%;">
+  <img src="../images/video_website_aqua.gif" alt="alt="Earth visualization"
+       style="max-width:100%; height:auto; display:inline-block;">
 </div>
 
 <div align="center">
