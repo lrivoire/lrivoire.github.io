@@ -16,7 +16,7 @@ redirect_from:
 </div>
 
 <div align="center">
-  I am interested in the role of atmospheric jet streams in weather, climate, and air quality.<br>I also work to optimize the design of future satellites,<br> and I love computational art.
+  I am interested in atmospheric currents and their inflluence on weather, climate, and air quality.<br>I also work to optimize the design of future satellites,<br> and I love computational art.
 </div>
 
 
