@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<h1 align="center">Welcome!<br>I am an environmental scientist and applied mathematician.</h1>
+<h1 align="center">Welcome!<br>I am an data scientist and applied mathematician.</h1>
 
 <div style="max-width:800px; margin:auto; text-align:center;">
   <img src="../images/video_website_aqua_infinite.gif" alt="Earth visualization"
