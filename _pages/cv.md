@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download my [CV](/files/CV.pdf) or contact me for a resune
+Download my [CV](/files/CV.pdf) or [resume](/files/resume.pdf)
 
 Professional Experience
 ======
