@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<h1 align="center">Welcome!<br>I am a data scientist specialized in Earth systems.</h1>
+<h1 align="center">Welcome!<br>I am a Data Scientist specializing in Earth systems.</h1>
 
 <div style="max-width:800px; margin:auto; text-align:center;">
   <img src="../images/merged_loop.gif" alt="Earth visualization"
