@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Louis Rivoire"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Louis Rivoire"
 description              : &description "Louis Rivoire's webpage"
