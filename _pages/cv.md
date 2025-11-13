@@ -13,19 +13,19 @@ Download my [CV](/files/CV.pdf) or [resume](/files/resume.pdf)
 
 Professional Experience
 ======
-Postdoctoral Associate, MIT, 2024-present
+Postdoctoral Associate, **MIT**, 2024-present
 
-Flight mission consultant, JPL/Caltech, 2021-2023 
+Flight Mission Consultant, **JPL/Caltech**, 2021-2023 
 
-Postdoctoral Fellow, Harvard, 2020-2024
+Postdoctoral Fellow, **Harvard**, 2020-2024
 
 Education
 ======
-Ph.D in Atmospheric Science, Colorado State University, 2020
+Ph.D, Atmospheric Science, Colorado State University, 2020
 
-M.S. in Ocean, Atmosphere, Remote Sensing, and Climate Studies, Sorbonne University, 2015
+M.S., Geophysics and Climate, Sorbonne University, 2015
 
-B.S. in Earth Science, Ecole Normale Supérieure, 2013
+B.S., Earth Sciences, Ecole Normale Supérieure, 2013
 
 Publications
 ======
