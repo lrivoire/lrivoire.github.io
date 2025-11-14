@@ -11,6 +11,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+**How to spot online lies before you hit "share"**
+
 Disinformation, or deliberate misinformation, has a long history, from political propaganda in ancient empires to modern digital manipulation. The world has witnessed a sharp uptick in disinformation campaigns in recent years, such that disinformation is now rampant. Whether it is about climate change, elections, vaccines, or other conspiracy theories, whether it is spread by state actors, news sources, social media, celebrities, or word of mouth, disinformation is affecting our ability to agree even on facts. Personally, I find that troubling. Disinformation is designed to promote uncertainty, apathy, distrust, and paranoia, and it affects all of us. Disinformation is also designed to be difficult to spot, so as to take advantage of the current era of fast, free, and virtually unlimited information. Luckily, we can spot disinformation, if we know what to look for:
 <!-- In its early form, disinformation was used to aid military tactics or to sway the public opinion in favor of a cause or against it. Since the 1920s, disinformation has also been used to manipulate enemy nations' intelligence agencies by strategically exposing them to credible--but misleading--information. -->
 
