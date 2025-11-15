@@ -21,11 +21,13 @@ Postdoctoral Fellow, **Harvard**, 2020-2024
 
 Education
 ======
-Ph.D, Atmospheric Science, Colorado State University, 2020
+Ph.D, Atmospheric Science, **Colorado State University**, 2020
 
-M.S., Geophysics and Climate, Sorbonne University, 2015
+M.S., Geophysics and Climate, **Sorbonne University**, 2015
 
-B.S., Earth Sciences, Ecole Normale Supérieure, 2013
+Diplôme de l'ENS, Environmental Sciences, **Ecole Normale Supérieure**, 2015
+
+B.S., Earth Sciences, **Ecole Normale Supérieure**, 2013
 
 Publications
 ======
