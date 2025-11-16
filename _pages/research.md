@@ -12,7 +12,7 @@ author_profile: true
 {% endfor %}
 
 ## Atmospheric transport
-![ ](../images/transport.png)
+![ ](../images/transport_2.png)
 Gases and particulates are transported far from their origins by the atmosphere and its strongest currents (the jet streams), affecting atmospheric chemistry, air quality, and climate. However, transport processes are subject to large errors in climate models, in part because numerical models are overly diffusive. In parallel, changes in the behavior of the jets in response to human activity remain uncertain. This has important implications for the validity of climate projections, especially since highly nonlinear chemical and dynamical processes can lead to very large errors. My research in this area is primarily driven by the following questions:
 
 * **What is a jet, anyway?** [Dr. Jezabel Curbelo](https://web.mat.upc.edu/jezabel.curbelo/) and I set to develop a robust and objective framework to understand how jets may behave in the future. We started by revisiting the very definition of the jets, showing that a Lagrangian view has many advantages over the traditional Eulerian view (see [JetLag](https://lrivoire.github.io/JetLag)). Our work is currently under review with Nat. Commun. Earth & Env.
