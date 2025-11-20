@@ -52,7 +52,7 @@ Conference presentations
 | 2022 | [Detecting tropopause folds using total column ozone](https://research.reading.ac.uk/sparc-ga2022/wp-content/uploads/sites/279/2022/10/PosterSession_BS1_BS2_20Oct.pdf) | SPARC General Assembly, Boulder, CO | Using 2D data to find 3D features |
 | 2018 | [Evolution of the upper-level thermal structure in reanalyzed tropical cyclones](https://ams.confex.com/ams/33HURRICANE/webprogram/Paper340308.html) | American Meteorological Society 33rd Conf. on Hurricanes and Tropical Meteorology, Ponte Vedra, FL | Hurricanes in global models |
 | 2016 | [Observed evolution of the upper-level thermal structure in tropical cyclones](https://agu.confex.com/agu/fm16/meetingapp.cgi/Paper/178067) | 49th American Geophysical Union Annual Meeting, San Francisco, CA | Seeing hurricanes' inner workings from space |
-| 2015 | [Sensitivity study of CAPE calculation using high vertical resolution soundings]([https://agu.confex.com/agu/fm16/meetingapp.cgi/Paper/178067](https://www.atmos.colostate.edu/dept/abstracts/YSSAR_2015_Agenda.pdf)) | Young Scientist Symposium on Atmospheric Research, Fort Collins, CO | Convective theory |
+| 2015 | [Sensitivity study of CAPE calculation using high vertical resolution soundings](https://www.atmos.colostate.edu/dept/abstracts/YSSAR_2015_Agenda.pdf) | Young Scientist Symposium on Atmospheric Research, Fort Collins, CO | Convective theory |
 
 
 
