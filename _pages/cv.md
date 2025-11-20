@@ -59,6 +59,8 @@ Conference presentations
 
 | Year | Title | Venue | Topic |
 |:---:|---|---|---|
+| 2025 | [Defining pollutant plumes as 'chemical-dynamical' objects to track their long-range influence](https://ams.confex.com/ams/105ANNUAL/meetingapp.cgi/Paper/451998) | American Meteorological Society 105th Annual Meeting, New Orleans, LA | Considering dynamics _and_ chemistry to track pollution |
+| 2025 | [Tracking the jets as Lagrangian objects](https://ams.confex.com/ams/105ANNUAL/meetingapp.cgi/Paper/452065) | American Meteorological Society 105th Annual Meeting, New Orleans, LA | Jet detection from flow geometry |
 | 2024 | [Tracking the jets as Lagrangian objects ](https://meetingorganizer.copernicus.org/EGU24/EGU24-14165.html)| European Geosciences Union General Assembly, Vienna, Austria | Jets as transport features rather than wind | 
 | 2023 | [Brewer Dobson Circulation trends from Age of Air in models](https://meetingorganizer.copernicus.org/EGU23/EGU23-17451.html) | European Geosciences Union General Assembly, Vienna, Austria | Changes in stratospheric circulation | 
 | 2022 | [An improved jet-relative coordinate system for the detection of tropopause folds](https://meetingorganizer.copernicus.org/EGU22/session/43872) | European Geosciences Union General Assembly, Vienna, Austria | Jet-relative diagnostics |
