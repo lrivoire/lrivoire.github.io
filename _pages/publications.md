@@ -31,7 +31,8 @@ Conference presentations
 |:---:|---|---|---|
 | 2025 | [Defining pollutant plumes as 'chemical-dynamical' objects to track their long-range influence](https://ams.confex.com/ams/105ANNUAL/meetingapp.cgi/Paper/451998) | American Meteorological Society 105th Annual Meeting, New Orleans, LA | Considering dynamics _and_ chemistry to track pollution |
 | 2025 | [Tracking the jets as Lagrangian objects](https://ams.confex.com/ams/105ANNUAL/meetingapp.cgi/Paper/452065) | American Meteorological Society 105th Annual Meeting, New Orleans, LA | Jet detection from flow geometry |
-| 2024 | [Tracking the jets as Lagrangian objects ](https://meetingorganizer.copernicus.org/EGU24/EGU24-14165.html)| European Geosciences Union General Assembly, Vienna, Austria | Jets as transport features rather than wind | 
+| 2024 | [Tracking the jets as Lagrangian objects](https://meetingorganizer.copernicus.org/EGU24/EGU24-14165.html)| European Geosciences Union General Assembly, Vienna, Austria | Jets as transport features rather than wind | 
+| 2023 | (invited) [How can we detect statistically robust climate trends?](https://www.crm.cat/seminar-how-can-we-detect-statistically-robust-climate-trends/)| Centre de Recerca Matemàtica, Bellaterra, Spain | Signal detection | 
 | 2023 | [Brewer Dobson Circulation trends from Age of Air in models](https://meetingorganizer.copernicus.org/EGU23/EGU23-17451.html) | European Geosciences Union General Assembly, Vienna, Austria | Changes in stratospheric circulation | 
 | 2022 | [An improved jet-relative coordinate system for the detection of tropopause folds](https://meetingorganizer.copernicus.org/EGU22/session/43872) | European Geosciences Union General Assembly, Vienna, Austria | Jet-relative diagnostics |
 | 2022 | [A simple approach to the statistical significance of forced trends in stratospheric ozone](https://ams.confex.com/ams/102ANNUAL/meetingapp.cgi/Paper/398300) | American Meterological Society 102nd Annual Meeting, online | Forced trend detection |
@@ -43,7 +44,6 @@ Conference presentations
 | 2018 | Climatology and structure of cut-off lows in the north Atlantic | University of Wisconsin, Madison, USA | Extreme weather events seen from space |
 | 2016 | [Evolution of the vertical temperature structure in tropical cyclones inferred from GPS radio occultation measurements](https://ams.confex.com/ams/32Hurr/webprogram/Paper293248.html) | American Meteorological Society 32nd Conf. on Hurricanes and Tropical Meteorology, San Juan, PR | Seeing hurricanes' inner workings from space |
 | 2016 | (invited) Dry layers in the tropical troposphere | Lecture at Colorado State University, Fort Collins, CO | Stratospheric influence in the tropics |
-| 2015 | Sensitivity study of Convective Available Potential Energy | Colorado State University, Fort Collins, CO | Convective theory |
 
 <p align="center"><b><i>Posters</i></b></p>
 
@@ -52,6 +52,8 @@ Conference presentations
 | 2022 | [Detecting tropopause folds using total column ozone](https://research.reading.ac.uk/sparc-ga2022/wp-content/uploads/sites/279/2022/10/PosterSession_BS1_BS2_20Oct.pdf) | SPARC General Assembly, Boulder, CO | Using 2D data to find 3D features |
 | 2018 | [Evolution of the upper-level thermal structure in reanalyzed tropical cyclones](https://ams.confex.com/ams/33HURRICANE/webprogram/Paper340308.html) | American Meteorological Society 33rd Conf. on Hurricanes and Tropical Meteorology, Ponte Vedra, FL | Hurricanes in global models |
 | 2016 | [Observed evolution of the upper-level thermal structure in tropical cyclones](https://agu.confex.com/agu/fm16/meetingapp.cgi/Paper/178067) | 49th American Geophysical Union Annual Meeting, San Francisco, CA | Seeing hurricanes' inner workings from space |
+| 2015 | [Sensitivity study of CAPE calculation using high vertical resolution soundings]([https://agu.confex.com/agu/fm16/meetingapp.cgi/Paper/178067](https://www.atmos.colostate.edu/dept/abstracts/YSSAR_2015_Agenda.pdf)) | Young Scientist Symposium on Atmospheric Research, Fort Collins, CO | Convective theory |
+
 
 
 <!--   <ul>{% for post in site.publications %}
