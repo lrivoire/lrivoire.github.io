@@ -41,7 +41,7 @@ Conference presentations
 | 2019 | (invited) [What is cooling the tropopause above tropical cyclones?](https://www2.acom.ucar.edu/event/seminars/what-cooling-tropopause-above-tropical-cyclones) | National Center for Atmospheric Research, Boulder, CO | Why is it so cold above hurricanes? |
 | 2019 | [What is cooling the tropopause above tropical cyclones?](https://www.wavestoweather.de/meetings/19th-cyclone-workshop/) | 19th Cyclone Workshop, Seebruck, Germany | Why is it so cold above hurricanes? |
 | 2018 | [Temperature tendencies in the UTLS above tropical cyclones](https://sites.google.com/view/yssar/) | Colorado State University, Fort Collins, CO | Temperature changes above hurricanes |
-| 2018 | Climatology and structure of cut-off lows in the north Atlantic | University of Wisconsin, Madison, USA | Extreme weather events seen from space |
+| 2018 | [Climatology and structure of cut-off lows in the north Atlantic](https://cimss.ssec.wisc.edu/corp/2018/CoRP%20Symposium%20Agenda_final.pdf) | NOAA/NESDIS Cooperative Research Program (CoRP) Annual Science Symposiumn, Madison, WI | Extreme weather events seen from space |
 | 2016 | [Evolution of the vertical temperature structure in tropical cyclones inferred from GPS radio occultation measurements](https://ams.confex.com/ams/32Hurr/webprogram/Paper293248.html) | American Meteorological Society 32nd Conf. on Hurricanes and Tropical Meteorology, San Juan, PR | Seeing hurricanes' inner workings from space |
 | 2016 | (invited) Dry layers in the tropical troposphere | Lecture at Colorado State University, Fort Collins, CO | Stratospheric influence in the tropics |
 
