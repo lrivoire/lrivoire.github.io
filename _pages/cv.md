@@ -31,8 +31,7 @@ B.S., Earth Sciences, **Ecole Normale Supérieure**, 2013
 
 Publications
 ======
-| **1st-authored publications** |
-|:--:|
+<p align="center"><b><i>1st-authored publications</i></b></p>
 
 | Year | Title | Journal | Topic |
 |:---:|---|---|---|
@@ -42,8 +41,7 @@ Publications
 | 2020 | [Quantifying the radiative impact of clouds on tropopause layer cooling in tropical cyclones](https://doi.org/10.1175/JCLI-D-19-0813.1) | J. Clim. | Hurricanes must cool the tropopause via dynamics, not radiation |
 | 2016 | [Evolution of the upper-level thermal structure in tropical cyclones](https://doi.org/10.1002/2016GL070622) | Geophys. Res. Lett. | Hurricanes cool the tropopause |
 
-| **Co-authored publications** |
-|:--:|
+<p align="center"><b><i>co-authored publications</i></b></p>
 
 | Year | Title | Journal | Topic |
 |:---:|---|---|---|
