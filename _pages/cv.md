@@ -52,8 +52,36 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
-Talks
+Conference presentations
 ======
+
+<p align="center"><b><i>Talks</i></b></p>
+
+| Year | Title | Venue | Topic |
+|:---:|---|---|---|
+| 2024 | [Tracking the jets as Lagrangian objects ](https://meetingorganizer.copernicus.org/EGU24/EGU24-14165.html)| European Geosciences Union General Assembly, Vienna, Austria | Jets as transport features rather than wind | 
+| 2023 | [Brewer Dobson Circulation trends from Age of Air in models](https://meetingorganizer.copernicus.org/EGU23/EGU23-17451.html) | European Geosciences Union General Assembly, Vienna, Austria | Changes in stratospheric circulation | 
+| 2022 | [An improved jet-relative coordinate system for the detection of tropopause folds](https://meetingorganizer.copernicus.org/EGU22/session/43872) | European Geosciences Union General Assembly, Vienna, Austria | Jet-relative diagnostics |
+| 2022 | [A simple approach to the statistical significance of forced trends in stratospheric ozone](https://ams.confex.com/ams/102ANNUAL/meetingapp.cgi/Paper/398300) | American Meterological Society 102nd Annual Meeting, online | Forced trend detection |
+| 2021 | [A multivariate approach to future tropical cyclone tracks](https://ams.confex.com/ams/34HURR/meetingapp.cgi/Paper/386675) | 34th American Meteorological Society Conf. on Hurricanes and Tropical Meteo., online | Unearthing what shapes hurricane tracks |
+| 2021 | (invited) [Ozone and hurricanes](https://www.facebook.com/photo/?fbid=4372296016122643&set=a.136736196345334) | French and German Consulates, Boston | Outreach talk for a general audience |
+| 2019 | (invited) [What is cooling the tropopause above tropical cyclones?](https://www2.acom.ucar.edu/event/seminars/what-cooling-tropopause-above-tropical-cyclones) | National Center for Atmospheric Research, Boulder, CO | Why is it so cold above hurricanes? |
+| 2019 | [What is cooling the tropopause above tropical cyclones?](https://www.wavestoweather.de/meetings/19th-cyclone-workshop/) | 19th Cyclone Workshop, Seebruck, Germany | Why is it so cold above hurricanes? |
+| 2018 | [Temperature tendencies in the UTLS above tropical cyclones](https://sites.google.com/view/yssar/) | Colorado State University, Fort Collins, CO | Temperature changes above hurricanes |
+| 2018 | Climatology and structure of cut-off lows in the north Atlantic | University of Wisconsin, Madison, USA | Extreme weather events seen from space |
+| 2016 | [Evolution of the vertical temperature structure in tropical cyclones inferred from GPS radio occultation measurements](https://ams.confex.com/ams/32Hurr/webprogram/Paper293248.html) | American Meteorological Society 32nd Conf. on Hurricanes and Tropical Meteorology, San Juan, PR | Seeing hurricanes' inner workings from space |
+| 2016 | (invited) Dry layers in the tropical troposphere | Lecture at Colorado State University, Fort Collins, CO | Stratospheric influence in the tropics |
+| 2015 | Sensitivity study of Convective Available Potential Energy | Colorado State University, Fort Collins, CO | Convective theory |
+
+<p align="center"><b><i>Posters</i></b></p>
+
+| Year | Title | Venue | Topic |
+|:---:|---|---|---|
+| 2022 | [Detecting tropopause folds using total column ozone](https://research.reading.ac.uk/sparc-ga2022/wp-content/uploads/sites/279/2022/10/PosterSession_BS1_BS2_20Oct.pdf) | SPARC General Assembly, Boulder, CO | Using 2D data to find 3D features |
+| 2018 | Evolution of the upper-level thermal structure in reanalyzed tropical cyclones | American Meteorological Society 33rd Conf. on Hurricanes and Tropical Meteorology, Ponte Vedra, FL | Hurricanes in global models |
+| 2016 | [Observed evolution of the upper-level thermal structure in tropical cyclones](https://agu.confex.com/agu/fm16/meetingapp.cgi/Paper/178067) | 49th American Geophysical Union Annual Meeting, San Francisco, CA | Seeing hurricanes' inner workings from space |
+
+
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
