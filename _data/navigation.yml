@@ -1,13 +1,17 @@
 # main links links
 main:
-  - title: "CV"
-    url: /cv/
+    
+  - title: "Publications"
+    url: /publications/
     
   - title: "Research"
     url: /research/
     
   - title: "JetLag"
     url: /JetLag/
+
+ - title: "CV"
+    url: /cv/
     
   - title: "Earthgazing"
     url: /earthgazing/
