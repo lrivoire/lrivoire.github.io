@@ -82,9 +82,3 @@ Conference presentations
 | 2022 | [Detecting tropopause folds using total column ozone](https://research.reading.ac.uk/sparc-ga2022/wp-content/uploads/sites/279/2022/10/PosterSession_BS1_BS2_20Oct.pdf) | SPARC General Assembly, Boulder, CO | Using 2D data to find 3D features |
 | 2018 | [Evolution of the upper-level thermal structure in reanalyzed tropical cyclones](https://ams.confex.com/ams/33HURRICANE/webprogram/Paper340308.html) | American Meteorological Society 33rd Conf. on Hurricanes and Tropical Meteorology, Ponte Vedra, FL | Hurricanes in global models |
 | 2016 | [Observed evolution of the upper-level thermal structure in tropical cyclones](https://agu.confex.com/agu/fm16/meetingapp.cgi/Paper/178067) | 49th American Geophysical Union Annual Meeting, San Francisco, CA | Seeing hurricanes' inner workings from space |
-
-
- <!--   <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul> -->
-  
