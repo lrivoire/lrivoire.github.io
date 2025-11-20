@@ -84,7 +84,7 @@ Conference presentations
 | 2016 | [Observed evolution of the upper-level thermal structure in tropical cyclones](https://agu.confex.com/agu/fm16/meetingapp.cgi/Paper/178067) | 49th American Geophysical Union Annual Meeting, San Francisco, CA | Seeing hurricanes' inner workings from space |
 
 
-  <ul>{% for post in site.talks %}
+ <!--   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
