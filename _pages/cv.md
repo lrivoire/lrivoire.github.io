@@ -29,7 +29,7 @@ Diplôme de l'ENS, Environmental Sciences, **Ecole Normale Supérieure**, 2015
 
 B.S., Earth Sciences, **Ecole Normale Supérieure**, 2013
 
-Publications
+<!-- Publications
 ======
 <p align="center"><b><i>1st-authored publications</i></b></p>
 
@@ -52,7 +52,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
-Conference presentations
+<!--Conference presentations
 ======
 
 <p align="center"><b><i>Talks</i></b></p>
