@@ -11,13 +11,15 @@ redirect_from:
 
 Download my [CV](/files/CV.pdf) or contact me for a resume.
 
-Professional Experience
+Professional Experience (past 10 years)
 ======
 Postdoctoral Associate, **MIT**, 2024-present
 
 Flight Mission Consultant, **JPL/Caltech**, 2021-2023 
 
 Postdoctoral Fellow, **Harvard**, 2020-2024
+
+Graduate Research and Teaching Assistant, **Colorado State University**, 2015-2020
 
 Education
 ======
