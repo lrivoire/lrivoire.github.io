@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>JetLag Globe</title>
+  <style>
+    body {font-family:sans-serif; text-align:center; margin-top:30px;}
+  </style>
+</head>
+<body>
+
+<svg viewBox="0 0 500 500" width="500" height="500">
+  <defs>
+    <path id="circlePath"
+          d="M250,250 m-180,0 a180,180 0 1,1 360,0 a180,180 0 1,1 -360,0" />
+  </defs>
+
+  <image href="images/test_atmos_bday_EGU26.png"
+         x="100" y="100" width="300" height="300"
+         clip-path="circle(150px at 250px 250px)" />
+
+  <text font-size="16" fill="#222" font-family="sans-serif">
+    <textPath href="#circlePath" startOffset="50%">
+      The Lagrangian framework identifies jets by their material function rather than instantaneous wind maxima.
+    </textPath>
+  </text>
+</svg>
+
+</body>
+</html>
