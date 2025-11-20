@@ -50,11 +50,11 @@ B.S., Earth Sciences, **Ecole Normale Supérieure**, 2013
 | 2024 | [Age of Stratospheric Air: Progress on Processes, Observations, and Long-Term Trends](https://doi.org/10.1029/2023RG000832) | Rev. Geophys. | Review of the field |
 | 2016 | [Dry layers in the tropical troposphere observed during CONTRAST and global behavior from GFS analyses](https://doi.org/10.1002/2016JD025841) | J. Geophys. Res. Atmos. | Ubiquitous stratospheric influence in the tropical troposphere |
 
-<!--   <ul>{% for post in site.publications %}
+ <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
+  {% endfor %}</ul>
   
-<!--Conference presentations
+Conference presentations
 ======
 
 <p align="center"><b><i>Talks</i></b></p>
@@ -83,4 +83,4 @@ B.S., Earth Sciences, **Ecole Normale Supérieure**, 2013
 |:---:|---|---|---|
 | 2022 | [Detecting tropopause folds using total column ozone](https://research.reading.ac.uk/sparc-ga2022/wp-content/uploads/sites/279/2022/10/PosterSession_BS1_BS2_20Oct.pdf) | SPARC General Assembly, Boulder, CO | Using 2D data to find 3D features |
 | 2018 | [Evolution of the upper-level thermal structure in reanalyzed tropical cyclones](https://ams.confex.com/ams/33HURRICANE/webprogram/Paper340308.html) | American Meteorological Society 33rd Conf. on Hurricanes and Tropical Meteorology, Ponte Vedra, FL | Hurricanes in global models |
-| 2016 | [Observed evolution of the upper-level thermal structure in tropical cyclones](https://agu.confex.com/agu/fm16/meetingapp.cgi/Paper/178067) | 49th American Geophysical Union Annual Meeting, San Francisco, CA | Seeing hurricanes' inner workings from space |
+| 2016 | [Observed evolution of the upper-level thermal structure in tropical cyclones](https://agu.confex.com/agu/fm16/meetingapp.cgi/Paper/178067) | 49th American Geophysical Union Annual Meeting, San Francisco, CA | Seeing hurricanes' inner workings from space | -->
