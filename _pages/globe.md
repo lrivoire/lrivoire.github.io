@@ -5,43 +5,22 @@ permalink: /globe/
 ---
 
 <style>
-.globe-wrap{
-  display:flex;
-  align-items:center;
-  justify-content:center;
-  gap:25px;
-  margin-top:25px;
-  flex-wrap:wrap;
-}
-
-.globe-wrap img{
+.circle-img{
   width:300px;
   height:300px;
-  border-radius:50%;
-  object-fit:cover;
-  flex-shrink:0;
-  border:1px solid #ccc;
-}
-
-.globe-text{
-  max-width:500px;
-  font-size:16px;
-  line-height:1.4;
-  color:#333;
-  text-align:justify;
-}
-
-@media(max-width:700px){
-  .globe-wrap{flex-direction:column;}
-  .globe-text{text-align:left;max-width:90%;}
+  float:left;
+  shape-outside:circle();
+  clip-path:circle();
+  margin:0 20px 20px 0;
 }
 </style>
 
-<div class="globe-wrap">
-  <img src="../images/test_atmos_bday_EGU26.png" alt="JetLag Globe">
-  <div class="globe-text">
-    The Lagrangian framework identifies jets by their material function rather than
-    instantaneous wind maxima. This circular image layout keeps the globe visible and
-    the text aligned beside it on wider screens, stacking gracefully on smaller ones.
-  </div>
-</div>
+<img src="/images/test_atmos_bday_EGU26.png" class="circle-img">
+
+<p>
+The Lagrangian framework identifies jets by their material function rather than
+instantaneous wind maxima. This text will wrap around the circular boundary
+because we force the browser to treat the image as a circle using CSS Shapes.
+Continue writing here to see the wrapping take effect. Add more lines. Add more 
+paragraphs. The wrapping will follow the circle instead of the rectangular PNG box.
+</p>
