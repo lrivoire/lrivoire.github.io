@@ -5,51 +5,37 @@ permalink: /globe/
 ---
 
 <style>
-.circle-img{
+.circle-img-left{
   width:300px;
   height:300px;
-  float:left !important;
+  float:left;
   shape-outside:circle();
   clip-path:circle();
   margin:0 20px 20px 0;
 }
-</style>
 
-<img src="/images/jade_globe_cropped.png" class="circle-img">
-
-<p>
-The Lagrangian framework identifies jets by their material function rather than
-instantaneous wind maxima. This text will wrap around the circular boundary
-because we force the browser to treat the image as a circle using CSS Shapes.
-Continue writing here to see the wrapping take effect. Add more lines. Add more 
-paragraphs. The wrapping will follow the circle instead of the rectangular PNG box.
-  The Lagrangian framework identifies jets by their material function rather than
-instantaneous wind maxima. This text will wrap around the circular boundary
-because we force the browser to treat the image as a circle using CSS Shapes.
-Continue writing here to see the wrapping take effect. Add more lines. Add more 
-paragraphs. The wrapping will follow the circle instead of the rectangular PNG box.
-  The Lagrangian framework identifies jets by their material function rather than
-instantaneous wind maxima. This text will wrap around the circular boundary
-because we force the browser to treat the image as a circle using CSS Shapes.
-Continue writing here to see the wrapping take effect. Add more lines. Add more 
-paragraphs. The wrapping will follow the circle instead of the rectangular PNG box.
-</p>
-
-
-<style>
-.circle-img{
+.circle-img-right{
   width:300px;
   height:300px;
-  float:right !important;
+  float:right;
   shape-outside:circle();
   clip-path:circle();
   margin:0 0 20px 20px;
 }
 </style>
 
-<img src="/images/jade_globe_cropped.png" class="circle-img">
+<img src="/images/jade_globe_cropped.png" class="circle-img-left">
 
 <p>
-Your text goes here. It will wrap around the circular boundary on the left side now,
-because the image is floated to the right using CSS Shapes.
+Text wrapping around a left-floated circle image. Add more text here to see the wrapping.
 </p>
+
+<div style="clear:both;"></div>
+
+<img src="/images/jade_globe_cropped.png" class="circle-img-right">
+
+<p>
+Text wrapping around a right-floated circle image. Add more text here to see the wrapping.
+</p>
+
+<div style="clear:both;"></div>
