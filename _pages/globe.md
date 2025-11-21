@@ -1,3 +1,9 @@
+---
+layout: single
+title: "JetLag Globe"
+permalink: /globe/
+---
+
 <html>
 <head>
 <style>
