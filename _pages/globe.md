@@ -8,7 +8,7 @@ permalink: /globe/
 .circle-img{
   width:300px;
   height:300px;
-  float:left;
+  float:left !important;
   shape-outside:circle();
   clip-path:circle();
   margin:0 20px 20px 0;
@@ -40,14 +40,14 @@ paragraphs. The wrapping will follow the circle instead of the rectangular PNG b
 .circle-img{
   width:300px;
   height:300px;
-  float:right;
+  float:right !important;
   shape-outside:circle();
   clip-path:circle();
   margin:0 0 20px 20px;
 }
 </style>
 
-<img src="/images/test_atmos_bday_EGU26.png" class="circle-img">
+<img src="/images/jade_globe_cropped.png" class="circle-img">
 
 <p>
 Your text goes here. It will wrap around the circular boundary on the left side now,
