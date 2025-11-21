@@ -34,3 +34,22 @@ because we force the browser to treat the image as a circle using CSS Shapes.
 Continue writing here to see the wrapping take effect. Add more lines. Add more 
 paragraphs. The wrapping will follow the circle instead of the rectangular PNG box.
 </p>
+
+
+<style>
+.circle-img{
+  width:300px;
+  height:300px;
+  float:right;
+  shape-outside:circle();
+  clip-path:circle();
+  margin:0 0 20px 20px;
+}
+</style>
+
+<img src="/images/test_atmos_bday_EGU26.png" class="circle-img">
+
+<p>
+Your text goes here. It will wrap around the circular boundary on the left side now,
+because the image is floated to the right using CSS Shapes.
+</p>
