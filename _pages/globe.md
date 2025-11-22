@@ -20,18 +20,17 @@ permalink: /globe/
   margin:0 0 20px 20px;
 }
 
-/* --- MOBILE VIEW --- */
+/* --- MOBILE: keep float, just shrink --- */
 @media (max-width: 600px) {
   .circle-img-left,
   .circle-img-right {
-    width:40vw;      /* scale with screen width */
-    height:40vw;
-    float:none;      /* stop text wrapping on tiny screens */
-    display:block;
-    margin:0 auto 20px auto;  /* center image */
+    width:35vw;     /* smaller relative size */
+    height:35vw;    /* keep circle */
+    margin:0 12px 12px 0; /* tighter margins */
   }
 }
 </style>
+
 
 
 <img src="/images/jade_globe_cropped.png" class="circle-img-left">
