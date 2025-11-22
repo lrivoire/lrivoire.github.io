@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "JetLag Globe"
+title: "Research"
 permalink: /globe/
 ---
 
@@ -34,7 +34,9 @@ permalink: /globe/
 
 
 <img src="/images/jade_globe_cropped.png" class="circle-img-left">
-
+<h3 style="font-weight:550; margin-bottom:0.3em;">
+    Atmospheric transport
+</h3>
 <p>
 Climate models misrepresent pollutant transport and associated chemistry, which makes climate projections uncertain. I ask:
 </p>
@@ -54,15 +56,29 @@ Climate models misrepresent pollutant transport and associated chemistry, which 
   </li>
 </ul>
 
-
-
-
 <div style="clear:both;"></div>
 
-<img src="/images/jade_globe_cropped.png" class="circle-img-right">
-
+<img src="/images/hot_n_cold_globe_cropped.png" class="circle-img-right">
+<h3 style="font-weight:550; margin-bottom:0.3em;">
+    Emergence of climate signals
+</h3>
 <p>
-Text wrapping around a right-floated circle image. Add more text here to see the wrapping.
+Detecting changes that occur as the planet warms is sometimes challenging. I ask:
 </p>
+<ul>
+  <li>
+    Have we collected enough data?
+    <br><span style="font-weight:300; font-size:0.9em;">
+      Using the concept of "airshed", I am advancing our understanding of mixing in the atmosphere.
+    </span>
+  </li>
+
+  <li>
+    If not, what kind of additional data do we need?
+    <br><span style="font-weight:300; font-size:0.9em;">
+      I am redefining the atmosphere’s strongest currents with a climate-invariant method: <a href="https://lrivoire.github.io/JetLag/">JetLag</a>.
+    </span>
+  </li>
+</ul>
 
 <div style="clear:both;"></div>
