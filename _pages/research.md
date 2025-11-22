@@ -32,8 +32,8 @@ permalink: /research/
 </style>
 
 
-
-<img src="/images/jade_globe_cropped.png" class="circle-img-left">
+<img src="/images/jade_globe_cropped.png" class="circle-img-left"
+     style="border-radius:50%; outline:1px solid black; outline-offset:3px;">
 <h3 style="font-weight:850; margin-bottom:0em;">
     Atmospheric transport
 </h3>
