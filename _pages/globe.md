@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Research"
+title: "Research topics"
 permalink: /globe/
 ---
 
@@ -34,7 +34,7 @@ permalink: /globe/
 
 
 <img src="/images/jade_globe_cropped.png" class="circle-img-left">
-<h3 style="font-weight:750; margin-bottom:0.3em;">
+<h3 style="font-weight:850; margin-bottom:0.3em;">
     Atmospheric transport
 </h3>
 <p style="margin-top:0.1em;">
@@ -59,7 +59,7 @@ Climate projections are uncertain in part because of inherent limitations of mod
 <div style="clear:both;"></div>
 
 <img src="/images/hot_n_cold_globe_cropped.png" class="circle-img-right">
-<h3 style="font-weight:750; margin-bottom:0.3em;">
+<h3 style="font-weight:850; margin-bottom:0.3em;">
     Emergence of climate signals
 </h3>
 <p style="margin-top:0.1em;">
@@ -84,7 +84,7 @@ Detecting changes that occur as the planet warms is sometimes challenging. I ask
 <div style="clear:both;"></div>
 
 <img src="/images/polluted_globe_cropped.png" class="circle-img-left">
-<h3 style="font-weight:750; margin-bottom:0.3em;">
+<h3 style="font-weight:850; margin-bottom:0.3em;">
     Atmospheric composition
 </h3>
 <p style="margin-top:0.1em;">
@@ -104,13 +104,32 @@ Life on Earth depends on atmospheric chemistry. I ask:
       My <a href="https://doi.org/10.5194/acp-25-2269-2025">work</a> shows that our satellites distort trends.
     </span>
   </li>
+</ul>
 
+<div style="clear:both;"></div>
+
+<img src="/images/hurricane_globe_cropped.png" class="circle-img-right" style="width:80%;">
+<h3 style="font-weight:850; margin-bottom:0.3em;">
+    Tropical cyclones
+</h3>
+<p style="margin-top:0.1em;">
+Hurricanes, typhoons, cyclones...
+</p>
+<ul style="margin-top:0.1em;">
   <li>
-    Is the stratospheric circulation accelerating?
+    Why is it cold above cyclones ?
     <br><span style="font-weight:300; font-size:0.9em;">
-      I participate in <a href="https://doi.org/10.1029/2023RG000832">efforts</a> to understand climate change in the stratosphere.
+      My Ph.D. work showed that cyclones cool their tops in an unexpected way.
     </span>
   </li>
+  
+  <li>
+    Could cyclones worsen if geo-engineering were implemented?
+    <br><span style="font-weight:300; font-size:0.9em;">
+      I am started investigating whether cooling the Earth could come at unexpected costs.
+    </span>
+  </li>
+  
 </ul>
 
 <div style="clear:both;"></div>
