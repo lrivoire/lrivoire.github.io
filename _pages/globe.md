@@ -108,7 +108,7 @@ Life on Earth depends on atmospheric chemistry. I ask:
 
 <div style="clear:both;"></div>
 
-<img src="/images/hurricane_globe_cropped.png" class="circle-img-right" style="width:80%;">
+<img src="/images/hurricane_globe_cropped.png" class="circle-img-right">
 <h3 style="font-weight:850; margin-bottom:0.3em;">
     Tropical cyclones
 </h3>
