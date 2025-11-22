@@ -44,7 +44,7 @@ Climate projections are uncertain in part because of inherent limitations of mod
   <li>
     How badly do climate models overmix airborne material?
     <br><span style="font-weight:300; font-size:0.9em;">
-      Using the concept of "airshed", I am advancing our understanding of mixing in the atmosphere.
+      Using the concept of "airshed", I am advancing our understanding of transport in the atmosphere.
     </span>
   </li>
 
@@ -91,6 +91,13 @@ Detecting changes that occur as the planet warms is sometimes challenging. I ask
 Life on Earth depends on atmospheric chemistry. I ask:
 </p>
 <ul>
+  <li>
+    How does biomass burning influence chemistry?
+    <br><span style="font-weight:300; font-size:0.9em;">
+      I am looking for the fingerprint of human-induced fires in the atmosphere.
+    </span>
+  </li>
+  
   <li>
     How confident are we in long-term satellite observations?
     <br><span style="font-weight:300; font-size:0.9em;">
