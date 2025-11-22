@@ -40,7 +40,7 @@ permalink: /globe/
 <p style="margin-top:0.1em;">
 Climate projections are uncertain in part because of inherent limitations of models. I ask:
 </p>
-<ul>
+<ul style="margin-top:0.2em;">
   <li>
     How badly do climate models overmix airborne material?
     <br><span style="font-weight:300; font-size:0.9em;">
@@ -65,7 +65,7 @@ Climate projections are uncertain in part because of inherent limitations of mod
 <p style="margin-top:0.1em;">
 Detecting changes that occur as the planet warms is sometimes challenging. I ask:
 </p>
-<ul>
+<ul style="margin-top:0.2em;">
   <li>
     Have we collected enough data?
     <br><span style="font-weight:300; font-size:0.9em;">
@@ -90,7 +90,7 @@ Detecting changes that occur as the planet warms is sometimes challenging. I ask
 <p style="margin-top:0.1em;">
 Life on Earth depends on atmospheric chemistry. I ask:
 </p>
-<ul>
+<ul style="margin-top:0.2em;">
   <li>
     How does biomass burning influence chemistry?
     <br><span style="font-weight:300; font-size:0.9em;">
