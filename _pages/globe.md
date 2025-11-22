@@ -34,7 +34,7 @@ permalink: /globe/
 
 
 <img src="/images/jade_globe_cropped.png" class="circle-img-left">
-<h3 style="font-weight:550; margin-bottom:0.3em;">
+<h3 style="font-weight:750; margin-bottom:0.3em;">
     Atmospheric transport
 </h3>
 <p>
@@ -59,7 +59,7 @@ Climate models misrepresent pollutant transport and associated chemistry, which 
 <div style="clear:both;"></div>
 
 <img src="/images/hot_n_cold_globe_cropped.png" class="circle-img-right">
-<h3 style="font-weight:550; margin-bottom:0.3em;">
+<h3 style="font-weight:750; margin-bottom:0.3em;">
     Emergence of climate signals
 </h3>
 <p>
