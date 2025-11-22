@@ -12,7 +12,7 @@ permalink: /research/
   float:left;
   shape-outside:circle();
   clip-path:circle();
-  margin:0 20px 20px 0;
+  margin:0 30px 30px 0;
 }
 
 .circle-img-right {
