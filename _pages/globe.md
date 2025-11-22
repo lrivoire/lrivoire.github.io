@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Research topics"
-permalink: /globe/
+permalink: /research/
 ---
 
 <style>
