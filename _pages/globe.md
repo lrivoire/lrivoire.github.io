@@ -37,7 +37,7 @@ permalink: /globe/
 <h3 style="font-weight:850; margin-bottom:0.3em;">
     Atmospheric transport
 </h3>
-<p style="margin-top:0.1em;">
+<p style="margin-top:0.1em; margin-bottom:0;">
 Climate projections are uncertain in part because of inherent limitations of models. I ask:
 </p>
 <ul style="margin-top:0;">
@@ -62,7 +62,7 @@ Climate projections are uncertain in part because of inherent limitations of mod
 <h3 style="font-weight:850; margin-bottom:0.3em;">
     Emergence of climate signals
 </h3>
-<p style="margin-top:0.1em;">
+<p style="margin-top:0.1em; margin-bottom:0;">
 Detecting changes that occur as the planet warms is sometimes challenging. I ask:
 </p>
 <ul style="margin-top:0;">
@@ -87,7 +87,7 @@ Detecting changes that occur as the planet warms is sometimes challenging. I ask
 <h3 style="font-weight:850; margin-bottom:0.3em;">
     Atmospheric composition
 </h3>
-<p style="margin-top:0.1em;">
+<p style="margin-top:0.1em; margin-bottom:0;">
 Life on Earth depends on atmospheric chemistry. I ask:
 </p>
 <ul style="margin-top:0;">
@@ -112,7 +112,7 @@ Life on Earth depends on atmospheric chemistry. I ask:
 <h3 style="font-weight:850; margin-bottom:0.3em;">
     Tropical cyclones
 </h3>
-<p style="margin-top:0.1em;">
+<p style="margin-top:0.1em; margin-bottom:0;">
 Hurricanes, typhoons, cyclones...
 </p>
 <ul style="margin-top:0;">
@@ -124,9 +124,9 @@ Hurricanes, typhoons, cyclones...
   </li>
   
   <li>
-    Could cyclones worsen if geo-engineering were implemented?
+    Could cyclones worsen with geo-engineering?
     <br><span style="font-weight:300; font-size:0.9em;">
-      I am started investigating whether cooling the Earth could come at unexpected costs.
+      I started investigating whether cooling the Earth could come at unexpected costs.
     </span>
   </li>
   
