@@ -5,7 +5,8 @@ permalink: /globe/
 ---
 
 <style>
-.circle-img-left{
+.circle-img-left,
+.circle-img-right {
   width:300px;
   height:300px;
   float:left;
@@ -14,15 +15,24 @@ permalink: /globe/
   margin:0 20px 20px 0;
 }
 
-.circle-img-right{
-  width:300px;
-  height:300px;
+.circle-img-right {
   float:right;
-  shape-outside:circle();
-  clip-path:circle();
   margin:0 0 20px 20px;
 }
+
+/* --- MOBILE VIEW --- */
+@media (max-width: 600px) {
+  .circle-img-left,
+  .circle-img-right {
+    width:40vw;      /* scale with screen width */
+    height:40vw;
+    float:none;      /* stop text wrapping on tiny screens */
+    display:block;
+    margin:0 auto 20px auto;  /* center image */
+  }
+}
 </style>
+
 
 <img src="/images/jade_globe_cropped.png" class="circle-img-left">
 
