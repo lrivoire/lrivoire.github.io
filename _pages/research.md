@@ -33,7 +33,7 @@ permalink: /research/
 
 
 <img src="/images/jade_globe_cropped.png" class="circle-img-left">
-<h3 style="font-weight:850; margin-bottom:0em;">
+<h3 style="font-weight:850; margin-bottom:0;">
     Atmospheric transport
 </h3>
 <p style="margin-top:0.1em; margin-bottom:0;">
@@ -58,7 +58,7 @@ Climate projections are uncertain in part because of inherent limitations of mod
 <div style="clear:both;"></div>
 
 <img src="/images/hot_n_cold_globe_cropped.png" class="circle-img-right">
-<h3 style="font-weight:850; margin-bottom:0em;">
+<h3 style="font-weight:850; margin-bottom:0;">
     Emergence of climate signals
 </h3>
 <p style="margin-top:0.1em; margin-bottom:0;">
@@ -83,7 +83,7 @@ Detecting changes that occur as the planet warms is sometimes challenging. I ask
 <div style="clear:both;"></div>
 
 <img src="/images/polluted_globe_cropped.png" class="circle-img-left">
-<h3 style="font-weight:850; margin-bottom:0em;">
+<h3 style="font-weight:850; margin-bottom:0;">
     Atmospheric composition
 </h3>
 <p style="margin-top:0.1em; margin-bottom:0;">
@@ -108,7 +108,7 @@ Life on Earth depends on atmospheric chemistry. I ask:
 <div style="clear:both;"></div>
 
 <img src="/images/hurricane_globe_cropped.png" class="circle-img-right">
-<h3 style="font-weight:850; margin-bottom:0em;">
+<h3 style="font-weight:850; margin-bottom:0;">
     Tropical cyclones
 </h3>
 <p style="margin-top:0.1em; margin-bottom:0;">
