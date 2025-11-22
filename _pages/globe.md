@@ -69,14 +69,14 @@ Detecting changes that occur as the planet warms is sometimes challenging. I ask
   <li>
     Have we collected enough data?
     <br><span style="font-weight:300; font-size:0.9em;">
-      Using the concept of "airshed", I am advancing our understanding of mixing in the atmosphere.
+      A <a href="https://doi.org/10.1029/2024GL109638">statistical method</a> I developed helps to better detect long-term changes.
     </span>
   </li>
 
   <li>
-    If not, what kind of additional data do we need?
+    What kind of additional data do we need?
     <br><span style="font-weight:300; font-size:0.9em;">
-      I am redefining the atmosphere’s strongest currents with a climate-invariant method: <a href="https://lrivoire.github.io/JetLag/">JetLag</a>.
+      My work has helped to design the next generation of satellites.
     </span>
   </li>
 </ul>
