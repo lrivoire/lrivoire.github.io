@@ -82,3 +82,28 @@ Detecting changes that occur as the planet warms is sometimes challenging. I ask
 </ul>
 
 <div style="clear:both;"></div>
+
+<img src="/images/polluted_globe_cropped.png" class="circle-img-left">
+<h3 style="font-weight:750; margin-bottom:0.3em;">
+    Atmospheric composition
+</h3>
+<p style="margin-top:0.1em;">
+Life on Earth depends on atmospheric chemistry. I ask:
+</p>
+<ul>
+  <li>
+    How confident are we in long-term satellite observations?
+    <br><span style="font-weight:300; font-size:0.9em;">
+      My <a href="https://doi.org/10.5194/acp-25-2269-2025">work</a> shows that our satellites distort trends.
+    </span>
+  </li>
+
+  <li>
+    Is the stratospheric circulation accelerating?
+    <br><span style="font-weight:300; font-size:0.9em;">
+      I participate in <a href="https://doi.org/10.1029/2023RG000832">efforts</a> to understand climate change in the stratosphere.
+    </span>
+  </li>
+</ul>
+
+<div style="clear:both;"></div>
