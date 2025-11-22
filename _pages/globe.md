@@ -37,7 +37,7 @@ permalink: /globe/
 <img src="/images/jade_globe_cropped.png" class="circle-img-left">
 
 <p>
-Climate models are overly diffusive and tend to misrepresent pollutant transport and associated atmospheric chemistry. This is a problem for climate projections, given the link between climate and chemistry. In this area of my work, I ask:
+Climate models misrepresent pollutant transport and associated chemistry, which makes climate projections uncertain. I ask:
 </p>
 <ul>
   <li>
