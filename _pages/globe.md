@@ -37,8 +37,8 @@ permalink: /globe/
 <h3 style="font-weight:750; margin-bottom:0.3em;">
     Atmospheric transport
 </h3>
-<p>
-Climate models misrepresent pollutant transport and associated chemistry, which makes climate projections uncertain. I ask:
+<p style="margin-top:0.1em;">
+Climate projections are uncertain in part because of inherent limitations of models. I ask:
 </p>
 <ul>
   <li>
@@ -62,7 +62,7 @@ Climate models misrepresent pollutant transport and associated chemistry, which 
 <h3 style="font-weight:750; margin-bottom:0.3em;">
     Emergence of climate signals
 </h3>
-<p>
+<p style="margin-top:0.1em;">
 Detecting changes that occur as the planet warms is sometimes challenging. I ask:
 </p>
 <ul>
