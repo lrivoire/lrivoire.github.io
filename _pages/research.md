@@ -87,7 +87,7 @@ Detecting changes that occur as the planet warms is sometimes challenging. I ask
     Atmospheric composition
 </h3>
 <p style="margin-top:0.1em; margin-bottom:0;">
-Life on Earth depends on atmospheric chemistry. I ask:
+Atmospheric chemistry is coupled to the climate. I ask:
 </p>
 <ul style="margin-top:0;">
   <li>
