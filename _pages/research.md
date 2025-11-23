@@ -68,7 +68,7 @@ Detecting changes that occur as the planet warms is sometimes challenging. I ask
   <li>
     Have we collected enough data?
     <br><span style="font-weight:300; font-size:0.9em;">
-      A <a href="https://doi.org/10.1029/2024GL109638">statistical method</a> I developed helps to better detect long-term changes.
+      A <a href="https://doi.org/10.1029/2024GL109638">statistical method</a> I developed helps to better understand long-term changes.
     </span>
   </li>
 
@@ -93,12 +93,12 @@ Atmospheric chemistry is coupled to the climate. I ask:
   <li>
     How does biomass burning influence chemistry?
     <br><span style="font-weight:300; font-size:0.9em;">
-      I am looking for the fingerprint of human-induced fires in the atmosphere.
+      I am looking for the atmospheric fingerprint of human-induced fires.
     </span>
   </li>
   
   <li>
-    How confident are we in long-term satellite observations?
+    How confident are we in long-term composition changes?
     <br><span style="font-weight:300; font-size:0.9em;">
       My <a href="https://doi.org/10.5194/acp-25-2269-2025">work</a> shows that our satellites distort trends.
     </span>
@@ -123,7 +123,7 @@ Hurricanes, typhoons, cyclones...
   </li>
   
   <li>
-    Could cyclones worsen with geo-engineering?
+    Could geo-engineering worsen cyclones?
     <br><span style="font-weight:300; font-size:0.9em;">
       I started investigating whether cooling the Earth could come at unexpected costs.
     </span>
