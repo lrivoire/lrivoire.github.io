@@ -32,16 +32,15 @@ permalink: /research/
 }
 </style>
 
-<div style="clear:both;"></div>
 <img src="/images/jade_globe_cropped.png" class="circle-img-left">
-<h3 style="font-weight:850; margin-bottom:0;">
+<h3 style="font-weight:850; margin-bottom:0;padding-top: 4px;">
     Atmospheric transport
 </h3>
 <ul style="margin-top:0;">
   <li>
-    How badly do climate models overmix airborne material?
+    How badly do climate models overmix pollutants?
     <br><span style="font-weight:300; font-size:0.9em;">
-      Using the concept of "airshed", I am investigating global pathways for pollution transport.
+     I am investigating transport pathways using the concept of "airshed".
     </span>
   </li>
 
