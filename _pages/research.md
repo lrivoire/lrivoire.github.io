@@ -10,15 +10,15 @@ permalink: /research/
   width:300px;
   height:300px;
   float:left;
-  shape-outside:circle(40% at 50% 50%);
-  shape-margin:6px;
-  clip-path:circle(40%);
+  shape-outside:circle(50%);
+  shape-margin:2px;
+  clip-path:circle(50%);
   margin:0 40px 30px 0;
 }
 
 .circle-img-right {
   float:right;
-  margin:0 0 20px 8px;
+  margin:0 0 0px 0px;
 }
 
 /* --- MOBILE: keep float, just shrink --- */
