@@ -11,7 +11,7 @@ permalink: /research/
   height:300px;
   float:left;
   shape-outside:circle(150px at 50% 50%);
-  shape-margin:10px;
+  shape-margin:20px;
   clip-path:circle(50%);
   margin:0 40px 30px 0;
 }
