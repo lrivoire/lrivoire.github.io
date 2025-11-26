@@ -13,12 +13,12 @@ permalink: /research/
   shape-outside:circle(50%);
   shape-margin:2px;
   clip-path:circle(50%);
-  margin:0 40px 30px 0;
+  margin:0 40px 0px 0;
 }
 
 .circle-img-right {
   float:right;
-  margin:0 0 0px 0px;
+  margin:0 0 0px 40px;
 }
 
 /* --- MOBILE: keep float, just shrink --- */
