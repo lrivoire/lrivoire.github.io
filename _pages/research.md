@@ -17,7 +17,7 @@ permalink: /research/
 
 .circle-img-right {
   float:right;
-  margin:0 0 20px 20px;
+  margin:0 0 20px 8px;
 }
 
 /* --- MOBILE: keep float, just shrink --- */
