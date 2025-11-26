@@ -36,14 +36,11 @@ permalink: /research/
 <h3 style="font-weight:850; margin-bottom:0;">
     Atmospheric transport
 </h3>
-<p style="margin-top:0.1em; margin-bottom:0;">
-Climate projections are uncertain in part because of inherent limitations of models. I ask:
-</p>
 <ul style="margin-top:0;">
   <li>
     How badly do climate models overmix airborne material?
     <br><span style="font-weight:300; font-size:0.9em;">
-      Using the concept of "airshed", I am advancing our understanding of transport in the atmosphere.
+      Using the concept of "airshed", I am investigating global pathways for pollution transport.
     </span>
   </li>
 
