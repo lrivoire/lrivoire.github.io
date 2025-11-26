@@ -53,15 +53,10 @@ permalink: /research/
   </li>
 </ul>
 
-<div style="clear:both;"></div>
-
 <img src="/images/hot_n_cold_globe_cropped.png" class="circle-img-right">
 <h3 style="font-weight:850; margin-bottom:0;">
     Emergence of climate signals
 </h3>
-<p style="margin-top:0.1em; margin-bottom:0;">
-Detecting changes that occur as the planet warms is sometimes challenging. I ask:
-</p>
 <ul style="margin-top:0;">
   <li>
     Have we collected enough data?
@@ -84,9 +79,6 @@ Detecting changes that occur as the planet warms is sometimes challenging. I ask
 <h3 style="font-weight:850; margin-bottom:0;">
     Atmospheric composition
 </h3>
-<p style="margin-top:0.1em; margin-bottom:0;">
-Atmospheric chemistry is coupled to the climate. I ask:
-</p>
 <ul style="margin-top:0;">
   <li>
     How does biomass burning influence chemistry?
@@ -98,7 +90,7 @@ Atmospheric chemistry is coupled to the climate. I ask:
   <li>
     How confident are we in long-term composition changes?
     <br><span style="font-weight:300; font-size:0.9em;">
-      My <a href="https://doi.org/10.5194/acp-25-2269-2025">work</a> shows that our satellites distort trends.
+      My <a href="https://doi.org/10.5194/acp-25-2269-2025">work</a> shows that satellites distort trends in the ozone layer.
     </span>
   </li>
 </ul>
@@ -109,12 +101,9 @@ Atmospheric chemistry is coupled to the climate. I ask:
 <h3 style="font-weight:850; margin-bottom:0;">
     Tropical cyclones
 </h3>
-<p style="margin-top:0.1em; margin-bottom:0;">
-Hurricanes, typhoons, cyclones...
-</p>
 <ul style="margin-top:0;">
   <li>
-    Why is it cold above cyclones ?
+    Why is it cold above cyclones?
     <br><span style="font-weight:300; font-size:0.9em;">
       My Ph.D. work showed that cyclones cool their tops in an unexpected way.
     </span>
