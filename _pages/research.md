@@ -10,7 +10,7 @@ permalink: /research/
   width:300px;
   height:300px;
   float:left;
-  shape-outside:circle(50%);
+  shape-outside:circle(150px at 50% 50%);
   clip-path:circle(50%);
   margin:0 30px 30px 0;
 }
