@@ -29,6 +29,10 @@ permalink: /research/
   text-align:right;
 }
 
+.text-block {
+  max-width: 45ch; /* or 50ch, adjust to taste */
+}
+
 /* MOBILE */
 @media (max-width: 600px) {
   .circle-img-left,
@@ -47,11 +51,11 @@ permalink: /research/
 <h3 style="font-weight:850; margin-bottom:0; padding-top:4px;">
     Atmospheric transport
 </h3>
-<p>
+<p class="text-block">
   How much do climate models overdilute pollutants?<br>
   I am investigating transport pathways using the concept of "airshed".
 </p>
-<p>
+<p class="text-block">
   What is a jet anyway?<br>
   I am redefining the strongest air currents with a Lagrangian method:
   <a href="https://lrivoire.github.io/JetLag/">JetLag</a>.
@@ -66,12 +70,12 @@ permalink: /research/
 <h3 class="right-text" style="font-weight:850; margin-bottom:0;">
     Emergence of climate signals
 </h3>
-<p class="right-text">
+<p class="right-text text-block">
   Have we collected enough data?<br>
   A <a href="https://doi.org/10.1029/2024GL109638">statistical method</a>
   I developed helps to better understand long-term changes.
 </p>
-<p class="right-text">
+<p class="right-text text-block">
   What kind of additional data do we need?<br>
   My work has helped to design the next generation of satellites.
 </p>
