@@ -27,26 +27,18 @@ ul {
   margin: 0;
 }
 
-.right-align,
-.bullets-right {
-  display: inline-block;
-  max-width: 100%;
-  text-align: right;
+ul.bullets-right{list-style:none;padding:0;margin:0;}
+ul.bullets-right li{
+  text-align:right;
+  position:relative;
 }
-
-ul.bullets-right {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
-ul.bullets-right li {
-  text-align: right;
-}
-
-.bullet {
-  float: right;
-  margin-left: 0.4em;
+ul.bullets-right li::after{
+  content:"•";
+  position:absolute;
+  right:0;
+  top:0;               /* ← anchor bullet to the first line */
+  transform:translateY(0.1em); /* tiny vertical adjustment if needed */
+  pointer-events:none;
 }
 
 
