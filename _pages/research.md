@@ -51,7 +51,7 @@ ul {
   </li>
 
   <li>
-    What is a jet anyway?
+    <span class="dot">•</span>What is a jet anyway?
     <br><span style="font-weight:300; font-size:0.9em;">
       I am redefining the atmosphere’s strongest currents with a climate-invariant method: <a href="https://lrivoire.github.io/JetLag/">JetLag</a>.
     </span>
@@ -60,20 +60,20 @@ ul {
 
 <div style="clear:both;"></div>
 
-<img src="/images/hot_n_cold_globe_cropped.png" class="circle-img-left">
+<img src="/images/hot_n_cold_globe_cropped.png" class="circle-img-right">
 <h3 style="font-weight:850; margin-bottom:0;">
     Emergence of climate signals
 </h3>
 <ul class="right-align" style="margin-top:0;">
   <li>
-    Have we collected enough data?
+    Have we collected enough data?<span class="dot">•</span>
     <br><span style="font-weight:300; font-size:0.9em;">
       A <a href="https://doi.org/10.1029/2024GL109638">statistical method</a> I developed helps to better understand long-term changes.
     </span>
   </li>
 
   <li>
-    What kind of additional data do we need?
+    What kind of additional data do we need?<span class="dot">•</span>
     <br><span style="font-weight:300; font-size:0.9em;">
       My work has helped to design the next generation of satellites.
     </span>
@@ -88,14 +88,13 @@ ul {
 </h3>
 <ul style="margin-top:0;">
   <li>
-    How does biomass burning influence chemistry?
+    <span class="dot">•</span>How does biomass burning influence chemistry?
     <br><span style="font-weight:300; font-size:0.9em;">
       I am looking for the atmospheric fingerprint of human-induced fires.
     </span>
   </li>
-  
   <li>
-    How confident are we in long-term composition changes?
+    <span class="dot">•</span>How confident are we in long-term composition changes?
     <br><span style="font-weight:300; font-size:0.9em;">
       My <a href="https://doi.org/10.5194/acp-25-2269-2025">work</a> shows that satellites distort trends in the ozone layer.
     </span>
@@ -110,14 +109,13 @@ ul {
 </h3>
 <ul class="bullets-right" style="margin-top:0;">
   <li>
-    Why is it cold above cyclones?
+    Why is it cold above cyclones?<span class="dot">•</span>
     <br><span style="font-weight:300; font-size:0.9em;">
       My Ph.D. work showed that cyclones cool their tops in an unexpected way.
     </span>
   </li>
-  
   <li>
-    Could geo-engineering worsen cyclones?
+    Could geo-engineering worsen cyclones?<span class="dot">•</span>
     <br><span style="font-weight:300; font-size:0.9em;">
       I started investigating whether cooling the Earth could come at unexpected costs.
     </span>
