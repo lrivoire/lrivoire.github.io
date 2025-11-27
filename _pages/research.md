@@ -21,19 +21,13 @@ permalink: /research/
   margin:0 0 0px 40px;
 }
 
-ul.right-wrap {
-  list-style: none;
+.right-aligned-list {
+  text-align: right;
+  list-style-position: inside;
   padding: 0;
   margin: 0;
 }
 
-ul.right-wrap li {
-  display: flex;
-  flex-direction: row-reverse; /* bullet on the right */
-  align-items: flex-start;
-  gap: 0.5em;                 /* space between bullet and text */
-  text-align: right;
-}
 
 /* --- MOBILE: keep float, just shrink --- */
 @media (max-width: 600px) {
@@ -71,7 +65,7 @@ ul.right-wrap li {
 <h3 style="font-weight:850; margin-bottom:0;">
     Emergence of climate signals
 </h3>
-<ul class="right-wrap" style="margin-top:0;">
+<ul class="right-aligned-list"; style="margin-top:0;">
   <li>
     Have we collected enough data?
     <br><span style="font-weight:300; font-size:0.9em;">
