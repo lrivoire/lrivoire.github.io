@@ -28,19 +28,19 @@ permalink: /research/
   margin: 0;
 }
 
-/* right-floated blocks: bullets on the right, text LTR & right-aligned */
-ul.bullets-right{
-  direction:rtl;
-  list-style-position:inside;
-  padding:0;
-  margin:0;
-}
-ul.bullets-right li{
-  direction:ltr;
-  text-align:right;
+ul.bullets-right {
+  list-style: none;
+  padding: 0;
+  margin: 0;
 }
 
+ul.bullets-right li {
+  text-align: right;
+}
 
+ul.bullets-right li .bullet {
+  padding-left: .5em;
+}
 
 /* --- MOBILE: keep float, just shrink --- */
 @media (max-width: 600px) {
