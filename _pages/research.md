@@ -76,7 +76,7 @@ ul.bullets-right li::after {
 </ul>
 
 <div style="clear:both;"></div>
-<img src="/images/hot_n_cold_globe_cropped.png" class="circle-img-left">
+<img src="/images/hot_n_cold_globe_cropped.png" class="circle-img-right">
 <h3 style="font-weight:850; margin-bottom:0;">
     Emergence of climate signals
 </h3>
@@ -124,7 +124,7 @@ ul.bullets-right li::after {
 <h3 style="font-weight:850; margin-bottom:0;">
     Tropical cyclones
 </h3>
-<ul style="margin-top:0;">
+<ul class="bullets-right" style="margin-top:0;">
   <li>
     Why is it cold above cyclones?
     <br><span style="font-weight:300; font-size:0.9em;">
