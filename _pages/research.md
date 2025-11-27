@@ -29,20 +29,13 @@ ul.bullets-right {
 
 ul.bullets-right li {
   text-align: right;
-  position: relative;
-  padding-right: 1.2em;   /* space so text doesn't touch bullet */
-  display: inline-block;  /* ← critical: prevents extending under image */
-  max-width: 100%;        /* ← keeps wrapping normal */
 }
 
-ul.bullets-right li::after {
-  content: "•";
-  position: absolute;
-  right: 0;
-  top: 0;
-  transform: translateY(0.1em);
-  pointer-events: none;
+.bullet {
+  float: right;
+  margin-left: 0.4em;
 }
+
 
 
 /* keep your image rules as-is (float:right; shape-outside:circle(50%); etc.) */
