@@ -74,7 +74,7 @@ ul.bullets-right li .bullet {
 </ul>
 
 <div style="clear:both;"></div>
-<img src="/images/hot_n_cold_globe_cropped.png" class="circle-img-right">
+
 <h3 style="font-weight:850; margin-bottom:0;">
     Emergence of climate signals
 </h3>
