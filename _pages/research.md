@@ -28,6 +28,19 @@ permalink: /research/
   margin: 0;
 }
 
+/* right-floated blocks: bullets on the right, text LTR & right-aligned */
+ul.bullets-right{
+  direction:rtl;
+  list-style-position:inside;
+  padding:0;
+  margin:0;
+}
+ul.bullets-right li{
+  direction:ltr;
+  text-align:right;
+}
+
+
 
 /* --- MOBILE: keep float, just shrink --- */
 @media (max-width: 600px) {
@@ -65,7 +78,7 @@ permalink: /research/
 <h3 style="font-weight:850; margin-bottom:0;">
     Emergence of climate signals
 </h3>
-<ul class="right-aligned-list" style="margin-top:0;">
+<ul class="bullets-right" style="margin-top:0;">
   <li>
     Have we collected enough data?
     <br><span style="font-weight:300; font-size:0.9em;">
