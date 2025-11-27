@@ -19,39 +19,13 @@ permalink: /research/
 .circle-img-right {
   float:right;
   margin:0 0 0px 40px;
-}
-.research-block-right {
-  display: grid;
-  grid-template-columns: 1fr auto;
-  column-gap: 2rem;
-  align-items: start;
-}
-ul.right-align {
-  list-style-position: inside;  /* bullet goes inside text block */
+}  
+
+ul {
+  list-style: none;
   padding: 0;
   margin: 0;
-  text-align: right;            /* align bullet + text to the right */
 }
-
-ul.right-align li {
-  margin: 0;
-  padding: 0;
-}
-
-ul.right-align .li-desc {
-  display: block;               /* force onto next line */
-  font-weight: 300;
-  font-size: 0.9em;
-  margin: 0;
-  padding-top: 0.15em;          /* small, controlled spacing */
-  text-align: right;            /* keep description right aligned */
-}
-
-
-
-  
-/* keep your image rules as-is (float:right; shape-outside:circle(50%); etc.) */
-
 
 /* --- MOBILE: keep float, just shrink --- */
 @media (max-width: 600px) {
@@ -70,7 +44,7 @@ ul.right-align .li-desc {
 </h3>
 <ul style="margin-top:0;">
   <li>
-    How badly do climate models overmix pollutants?
+    <span class="dot">•</span>How badly do climate models overmix pollutants?
     <br><span style="font-weight:300; font-size:0.9em;">
      I am investigating transport pathways using the concept of "airshed".
     </span>
