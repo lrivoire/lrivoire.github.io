@@ -28,19 +28,15 @@ permalink: /research/
   margin: 0;
 }
 
-ul.bullets-right {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
+/* right-aligned text + bullets on the right that respect the circle wrap */
+ul.bullets-right{list-style:none;padding:0;margin:0;}
+ul.bullets-right li{text-align:right;}
+ul.bullets-right li::after{content:" •";}
 
-ul.bullets-right li {
-  text-align: right;
-}
+/* optional: a bit more gap between text and bullet */
+ul.bullets-right.tight li::after{content:"  •";}
 
-ul.bullets-right li .bullet {
-  padding-left: .5em;
-}
+/* keep your image rules as-is (float:right; shape-outside:circle(50%); etc.) */
 
 /* --- MOBILE: keep float, just shrink --- */
 @media (max-width: 600px) {
@@ -74,7 +70,7 @@ ul.bullets-right li .bullet {
 </ul>
 
 <div style="clear:both;"></div>
-
+<img src="/images/hot_n_cold_globe_cropped.png" class="circle-img-left">
 <h3 style="font-weight:850; margin-bottom:0;">
     Emergence of climate signals
 </h3>
