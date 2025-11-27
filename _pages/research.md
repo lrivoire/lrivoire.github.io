@@ -34,6 +34,22 @@ ul {
   text-align: right;
 }
 
+ul.bullets-right {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+ul.bullets-right li {
+  text-align: right;
+}
+
+.bullet {
+  float: right;
+  margin-left: 0.4em;
+}
+
+
 
 /* --- MOBILE: keep float, just shrink --- */
 @media (max-width: 600px) {
@@ -72,7 +88,7 @@ ul {
 <h3 style="font-weight:850; margin-bottom:0;">
     Emergence of climate signals
 </h3>
-<ul class="right-align" style="margin-top:0;">
+<ul class="bullets-right" style="margin-top:0;">
   <li>
     Have we collected enough data?<span class="dot">•</span>
     <br><span style="font-weight:300; font-size:0.9em;">
@@ -115,7 +131,7 @@ ul {
 <h3 style="font-weight:850; margin-bottom:0;">
     Tropical cyclones
 </h3>
-<ul class="right-align" style="margin-top:0;">
+<ul class="bullets-right" style="margin-top:0;">
   <li>
     Why is it cold above cyclones?<span class="dot">•</span>
     <br><span style="font-weight:300; font-size:0.9em;">
