@@ -21,6 +21,15 @@ permalink: /research/
   margin:0 0 0px 40px;
 }
 
+  .right-bullets {
+  direction: rtl;
+  text-align: right;
+}
+
+.right-bullets li {
+  direction: ltr;
+}
+
 /* --- MOBILE: keep float, just shrink --- */
 @media (max-width: 600px) {
   .circle-img-left,
@@ -53,7 +62,7 @@ permalink: /research/
 </ul>
 
 <div style="clear:both;"></div>
-<div style="text-align:right;">
+<div class="right-bullets;">
 <img src="/images/hot_n_cold_globe_cropped.png" class="circle-img-right">
 <h3 style="font-weight:850; margin-bottom:0;">
     Emergence of climate signals
