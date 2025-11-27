@@ -20,20 +20,16 @@ permalink: /research/
   float:right;
   margin:0 0 0px 40px;
 }
-
-/* bullets on the right, text right-aligned, wraps around right-floated circle */
+/* right-aligned text + bullets on the right that respect the circle wrap */
 ul.bullets-right{list-style:none;padding:0;margin:0;}
-ul.bullets-right li{
-  display:inline-grid;           /* shrink-to-fit beside the float */
-  grid-template-columns:1fr auto;
-  column-gap:.5em;
-  max-width:100%;
-  vertical-align:top;
-  text-align:right;
-}
-ul.bullets-right .dot{align-self:start;line-height:1;}
+ul.bullets-right li{text-align:right;}
+ul.bullets-right li::after{content:" •";}
+
+/* optional: a bit more gap between text and bullet */
+ul.bullets-right.tight li::after{content:"  •";}
 
 /* keep your image rules as-is (float:right; shape-outside:circle(50%); etc.) */
+
 
 /* --- MOBILE: keep float, just shrink --- */
 @media (max-width: 600px) {
