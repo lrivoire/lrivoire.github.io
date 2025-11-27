@@ -53,7 +53,7 @@ permalink: /research/
 </ul>
 
 <div style="clear:both;"></div>
-
+<div style="text-align:right;">
 <img src="/images/hot_n_cold_globe_cropped.png" class="circle-img-right">
 <h3 style="font-weight:850; margin-bottom:0;">
     Emergence of climate signals
@@ -73,7 +73,7 @@ permalink: /research/
     </span>
   </li>
 </ul>
-
+</div>
 <div style="clear:both;"></div>
 
 <img src="/images/polluted_globe_cropped.png" class="circle-img-left">
