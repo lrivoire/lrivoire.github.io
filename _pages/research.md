@@ -90,7 +90,7 @@ ul.bullets-right li .dot {
   
   <div class="text">
     <h3>Emergence of climate signals</h3>
-    <ul class="bullets-right">
+    <ul class="bullets-right" syle="margin-top:0;">
       <li><span class="t">Have we collected enough data?</span><span class="dot">•</span></li>
         <br><span style="font-weight:300; font-size:0.9em;">
           A <a href="https://doi.org/10.1029/2024GL109638">statistical method</a> I developed helps to better understand long-term changes.
