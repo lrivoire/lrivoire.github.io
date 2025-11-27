@@ -40,7 +40,11 @@ ul.bullets-right li::after{
   transform:translateY(0.1em); /* tiny vertical adjustment if needed */
   pointer-events:none;
 }
-
+.right-title {
+  display: inline-block;
+  text-align: right;
+  max-width: 100%;
+}
 
 
 /* --- MOBILE: keep float, just shrink --- */
@@ -77,7 +81,7 @@ ul.bullets-right li::after{
 <div style="clear:both;"></div>
 
 <img src="/images/hot_n_cold_globe_cropped.png" class="circle-img-right">
-<h3 style="font-weight:850; margin-bottom:0;">
+<h3 class="right-title" style="font-weight:850; margin-bottom:0;">
     Emergence of climate signals
 </h3>
 <ul class="bullets-right" style="margin-top:0;">
@@ -120,7 +124,7 @@ ul.bullets-right li::after{
 <div style="clear:both;"></div>
 
 <img src="/images/hurricane_globe_cropped.png" class="circle-img-right">
-<h3 style="font-weight:850; margin-bottom:0;">
+<h3 class="right-title" style="font-weight:850; margin-bottom:0;">
     Tropical cyclones
 </h3>
 <ul class="bullets-right" style="margin-top:0;">
