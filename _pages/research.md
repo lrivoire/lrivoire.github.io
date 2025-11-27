@@ -21,22 +21,17 @@ permalink: /research/
   margin:0 0 0px 40px;
 }
 
-ul.bullets-right {
-  list-style: none;
-  padding: 0;
-  margin: 0;
+/* bullets on the right, text right-aligned, wraps around right-floated circle */
+ul.bullets-right{list-style:none;padding:0;margin:0;}
+ul.bullets-right li{
+  display:inline-grid;           /* shrink-to-fit beside the float */
+  grid-template-columns:1fr auto;
+  column-gap:.5em;
+  max-width:100%;
+  vertical-align:top;
+  text-align:right;
 }
-
-ul.bullets-right li {
-  text-align: right;
-}
-
-.bullet {
-  float: right;
-  margin-left: 0.4em;
-}
-
-
+ul.bullets-right .dot{align-self:start;line-height:1;}
 
 /* keep your image rules as-is (float:right; shape-outside:circle(50%); etc.) */
 
