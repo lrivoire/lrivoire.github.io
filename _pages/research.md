@@ -106,7 +106,7 @@ permalink: /research/
 </h3>
 <p class="right-text">
   Why is it cold above cyclones?<br>
-  My Ph.D. work showed that cyclones cool their tops in an unexpected way.
+  My <a href="https://doi.org/10.1175/JCLI-D-19-0813.1">Ph.D. work</a> showed that cyclones cool their tops in an unexpected way.
 </p>
 <p class="right-text">
   Could geo-engineering worsen cyclones?<br>
