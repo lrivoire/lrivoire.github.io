@@ -27,6 +27,14 @@ ul {
   margin: 0;
 }
 
+.right-align,
+.bullets-right {
+  display: inline-block;
+  max-width: 100%;
+  text-align: right;
+}
+
+
 /* --- MOBILE: keep float, just shrink --- */
 @media (max-width: 600px) {
   .circle-img-left,
@@ -44,7 +52,7 @@ ul {
 </h3>
 <ul style="margin-top:0;">
   <li>
-    <span class="dot">•</span>How badly do climate models overmix pollutants?
+    <span class="dot">•</span>How much do climate models overdilute pollutants?
     <br><span style="font-weight:300; font-size:0.9em;">
      I am investigating transport pathways using the concept of "airshed".
     </span>
@@ -53,7 +61,7 @@ ul {
   <li>
     <span class="dot">•</span>What is a jet anyway?
     <br><span style="font-weight:300; font-size:0.9em;">
-      I am redefining the atmosphere’s strongest currents with a climate-invariant method: <a href="https://lrivoire.github.io/JetLag/">JetLag</a>.
+      I am redefining the strongest air currents with a Lagrangian method: <a href="https://lrivoire.github.io/JetLag/">JetLag</a>.
     </span>
   </li>
 </ul>
@@ -107,7 +115,7 @@ ul {
 <h3 style="font-weight:850; margin-bottom:0;">
     Tropical cyclones
 </h3>
-<ul class="bullets-right" style="margin-top:0;">
+<ul class="right-align" style="margin-top:0;">
   <li>
     Why is it cold above cyclones?<span class="dot">•</span>
     <br><span style="font-weight:300; font-size:0.9em;">
