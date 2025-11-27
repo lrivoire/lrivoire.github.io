@@ -20,14 +20,37 @@ permalink: /research/
   float:right;
   margin:0 0 0px 40px;
 }
-/* right-aligned text + bullets on the right that respect the circle wrap */
-ul.bullets-right{list-style:none;padding:0;margin:0;}
-ul.bullets-right li{text-align:right;}
-ul.bullets-right li::after{content:" •";}
+.research-block-right {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  column-gap: 2rem;
+  align-items: start;
+}
+.research-block-right img {
+  float: left;
+  shape-outside: circle(50%);
+  clip-path: circle(50%);
+  width: 300px;
+  height: 300px;
+  margin-left: 1rem;  /* pushes text away */
+}
+ul.bullets-right {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+ul.bullets-right li {
+  display: flex;
+  justify-content: flex-end;  /* push bullet to the right */
+  gap: .5em;
+  text-align: right;
+}
+ul.bullets-right li .dot {
+  flex-shrink: 0;              /* bullet stays tight */
+}
 
-/* optional: a bit more gap between text and bullet */
-ul.bullets-right.tight li::after{content:"  •";}
 
+  
 /* keep your image rules as-is (float:right; shape-outside:circle(50%); etc.) */
 
 
@@ -63,6 +86,21 @@ ul.bullets-right.tight li::after{content:"  •";}
 </ul>
 
 <div style="clear:both;"></div>
+<div class="research-block-right">
+  
+  <div class="text">
+    <h3>Emergence of climate signals</h3>
+    <ul class="bullets-right">
+      <li><span class="t">Have we collected enough data?</span><span class="dot">•</span></li>
+      <li><span class="t">What kind of additional data do we need?</span><span class="dot">•</span></li>
+    </ul>
+  </div>
+
+  <img src="/images/hot_n_cold_globe_cropped.png">
+</div>
+
+
+
 <img src="/images/hot_n_cold_globe_cropped.png" class="circle-img-left">
 <h3 style="font-weight:850; margin-bottom:0;">
     Emergence of climate signals
