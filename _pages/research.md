@@ -21,13 +21,25 @@ permalink: /research/
   margin:0 0 0px 40px;
 }
 
-  .right-bullets {
-  direction: rtl;
-  text-align: right;
+ul.right-side-bullets {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  position: relative;
 }
 
-.right-bullets li {
-  direction: ltr;
+ul.right-side-bullets li {
+  padding-right: 1.2em;         /* space for bullet */
+  text-align: right;             /* align text to right */
+  position: relative;
+}
+
+ul.right-side-bullets li::before {
+  content: "•";
+  position: absolute;
+  right: 0;                      /* bullet on the RIGHT */
+  top: 0.3em;                    /* visually aligned */
+  font-size: 1.1em;              /* match default bullet size */
 }
 
 /* --- MOBILE: keep float, just shrink --- */
@@ -62,12 +74,11 @@ permalink: /research/
 </ul>
 
 <div style="clear:both;"></div>
-<div class="right-bullets;">
 <img src="/images/hot_n_cold_globe_cropped.png" class="circle-img-right">
 <h3 style="font-weight:850; margin-bottom:0;">
     Emergence of climate signals
 </h3>
-<ul style="margin-top:0;">
+<ul class="right-side-bullets" style="margin-top:0;">
   <li>
     Have we collected enough data?
     <br><span style="font-weight:300; font-size:0.9em;">
@@ -82,7 +93,7 @@ permalink: /research/
     </span>
   </li>
 </ul>
-</div>
+
 <div style="clear:both;"></div>
 
 <img src="/images/polluted_globe_cropped.png" class="circle-img-left">
