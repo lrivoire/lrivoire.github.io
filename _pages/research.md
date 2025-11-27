@@ -21,25 +21,18 @@ permalink: /research/
   margin:0 0 0px 40px;
 }
 
-ul.right-side-bullets {
+ul.right-wrap {
   list-style: none;
   padding: 0;
   margin: 0;
-  position: relative;
 }
 
-ul.right-side-bullets li {
-  padding-right: 1.2em;         /* space for bullet */
-  text-align: right;             /* align text to right */
-  position: relative;
-}
-
-ul.right-side-bullets li::before {
-  content: "•";
-  position: absolute;
-  right: 0;                      /* bullet on the RIGHT */
-  top: 0.3em;                    /* visually aligned */
-  font-size: 1.1em;              /* match default bullet size */
+ul.right-wrap li {
+  display: flex;
+  flex-direction: row-reverse; /* bullet on the right */
+  align-items: flex-start;
+  gap: 0.5em;                 /* space between bullet and text */
+  text-align: right;
 }
 
 /* --- MOBILE: keep float, just shrink --- */
@@ -78,7 +71,7 @@ ul.right-side-bullets li::before {
 <h3 style="font-weight:850; margin-bottom:0;">
     Emergence of climate signals
 </h3>
-<ul class="right-side-bullets" style="margin-top:0;">
+<ul class="right-wrap" style="margin-top:0;">
   <li>
     Have we collected enough data?
     <br><span style="font-weight:300; font-size:0.9em;">
