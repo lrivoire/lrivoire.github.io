@@ -40,6 +40,10 @@ ul.bullets-right li::after{
   transform:translateY(0.1em); /* tiny vertical adjustment if needed */
   pointer-events:none;
 }
+/* make right-side heading + list shrink-to-fit so they sit left of the right-floated image */
+.right-title{display:inline-block;max-width:100%;text-align:right;vertical-align:top;}
+ul.bullets-right{display:inline-block;max-width:100%;text-align:right;}
+ul.bullets-right li{padding-right:1.2em;} /* room so text doesn't hit the bullet */
 
 
 /* --- MOBILE: keep float, just shrink --- */
@@ -119,7 +123,7 @@ ul.bullets-right li::after{
 <div style="clear:both;"></div>
 
 <img src="/images/hurricane_globe_cropped.png" class="circle-img-right">
-<h3 style="font-weight:850; margin-bottom:0;">
+<h3 class="right-title" style="font-weight:850; margin-bottom:0;">
     Tropical cyclones
 </h3>
 <ul class="bullets-right" style="margin-top:0;">
