@@ -28,13 +28,19 @@ permalink: /research/
   margin: 0;
 }
 
-/* right-aligned text + bullets on the right that respect the circle wrap */
 ul.bullets-right{list-style:none;padding:0;margin:0;}
-ul.bullets-right li{text-align:right;}
-ul.bullets-right li::after{content:" •";}
-
-/* optional: a bit more gap between text and bullet */
-ul.bullets-right.tight li::after{content:"  •";}
+ul.bullets-right li{
+  text-align:right;
+  position:relative;
+}
+ul.bullets-right li::after{
+  content:"•";
+  position:absolute;
+  right:0;
+  top:0;               /* ← anchor bullet to the first line */
+  transform:translateY(0.1em); /* tiny vertical adjustment if needed */
+  pointer-events:none;
+}
 
 /* keep your image rules as-is (float:right; shape-outside:circle(50%); etc.) */
 
