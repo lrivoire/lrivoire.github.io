@@ -65,7 +65,7 @@ permalink: /research/
 <h3 style="font-weight:850; margin-bottom:0;">
     Emergence of climate signals
 </h3>
-<ul class="right-aligned-list"; style="margin-top:0;">
+<ul class="right-aligned-list" style="margin-top:0;">
   <li>
     Have we collected enough data?
     <br><span style="font-weight:300; font-size:0.9em;">
