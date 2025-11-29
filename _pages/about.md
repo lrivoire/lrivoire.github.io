@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<h1 align="center">Welcome!<br>I am a Data Scientist and Applied Mathematician.</h1>
+<h1 align="center">Welcome!<br>I am a Environmental Scientist and Applied Mathematician.</h1>
 
 <div style="max-width:800px; margin:auto; text-align:center;">
   <img src="../images/merged_loop_2.gif" alt="Earth visualization"
