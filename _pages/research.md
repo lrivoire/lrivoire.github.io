@@ -44,11 +44,11 @@ permalink: /research/
 <!-- BLOCK 1 -->
 <img src="/images/jade_globe_cropped.png" class="circle-img-left">
 
-<h3 style="font-weight:850; margin-bottom:0; padding-top:4px; font-variant: small-caps;">
+<h3 style="font-weight:850; margin-bottom:0; font-variant: small-caps;">
     Atmospheric transport
 </h3>
 <p>
-  <span style="font-weight: 600;">How much do climate models overdilute pollutants?</span> I am investigating transport pathways using the concept of "airshed".
+  How much do climate models overdilute pollutants? I am investigating transport pathways using the concept of "airshed".
 </p>
 <p>
   What is a jet anyway? I am redefining the strongest air currents with a Lagrangian method:
@@ -61,7 +61,7 @@ permalink: /research/
 <!-- BLOCK 2 -->
 <img src="/images/hot_n_cold_globe_cropped.png" class="circle-img-right">
 
-<h3 class="right-text" style="font-weight:850; margin-bottom:0;">
+<h3 class="right-text" style="font-weight:850; margin-bottom:0; font-variant: small-caps;">
     Emergence of climate signals
 </h3>
 <p class="right-text">
@@ -80,7 +80,7 @@ permalink: /research/
 <!-- BLOCK 3 -->
 <img src="/images/polluted_globe_cropped.png" class="circle-img-left">
 
-<h3 style="font-weight:850; margin-bottom:0;">
+<h3 style="font-weight:850; margin-bottom:0; font-variant: small-caps;">
     Atmospheric composition
 </h3>
 <p>
@@ -99,7 +99,7 @@ permalink: /research/
 <!-- BLOCK 4 -->
 <img src="/images/hurricane_globe_cropped.png" class="circle-img-right">
 
-<h3 class="right-text" style="font-weight:850; margin-bottom:0;">
+<h3 class="right-text" style="font-weight:850; margin-bottom:0; font-variant: small-caps;">
     Tropical cyclones
 </h3>
 <p class="right-text">
