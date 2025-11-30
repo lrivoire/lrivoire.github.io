@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "JetLag, the Lagrangian jet tracking algorithm"
 permalink: /JetLag/
 author_profile: true
