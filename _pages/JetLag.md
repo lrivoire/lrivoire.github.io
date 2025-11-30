@@ -6,19 +6,19 @@ author_profile: true
 ---
 
 <style>
-/* OVERRIDE THE THEME */
 .circle-img-left {
-  max-width:none !important;
-  display:inline-block !important;
-}
+  width:300px !important;
+  height:300px !important;
 
-/* FLOAT + SHAPES */
-.circle-img-left {
-  width:300px;
-  height:300px;
-  float:left;
+  float:left !important;
   margin:0 40px 0 0;
 
+  /* Prevent theme overrides */
+  max-width:none !important;
+  max-height:none !important;
+  display:block !important;
+
+  /* Shape + clipping */
   clip-path:circle(50%);
   shape-outside:circle(50%);
   shape-margin:0;
