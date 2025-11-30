@@ -35,12 +35,6 @@ author_profile: true
 }
 </style>
 
-{% include base_path %}
-
-{% for post in site.research reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
 <img src="/images/logo2.png" class="circle-img-left">
 <h3 style="font-weight:850; margin-bottom:0; margin-top:0;">
     The JetLag dataset will be released shortly—paper in review.
@@ -52,6 +46,15 @@ author_profile: true
   <span style="font-weight:600;">Sign up for the <a href="https://web.lists.fas.harvard.edu/mailman/lists/jetlag.lists.fas.harvard.edu/">mailing list</a>.</span>
 </p>
 <div style="clear:both;"></div>
+
+
+
+{% include base_path %}
+
+{% for post in site.research reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
 
 ---
 
