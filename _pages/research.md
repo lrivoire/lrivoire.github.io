@@ -44,16 +44,14 @@ permalink: /research/
 <!-- BLOCK 1 -->
 <img src="/images/jade_globe_cropped.png" class="circle-img-left">
 
-<h3 style="font-weight:850; margin-bottom:0; padding-top:4px;">
+<h3 style="font-weight:850; margin-bottom:0; padding-top:4px; font-variant: small-caps;">
     Atmospheric transport
 </h3>
 <p>
-  How much do climate models overdilute pollutants?<br>
-  I am investigating transport pathways using the concept of "airshed".
+  <span style="font-weight: 600;">How much do climate models overdilute pollutants?</span> I am investigating transport pathways using the concept of "airshed".
 </p>
 <p>
-  What is a jet anyway?<br>
-  I am redefining the strongest air currents with a Lagrangian method:
+  What is a jet anyway? I am redefining the strongest air currents with a Lagrangian method:
   <a href="https://lrivoire.github.io/JetLag/">JetLag</a>.
 </p>
 
