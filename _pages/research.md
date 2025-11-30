@@ -47,8 +47,14 @@ permalink: /research/
 }
 
 /* MOBILE */
-
-
+@media (max-width: 600px) {
+  .circle-img-left,
+  .circle-img-right {
+    width:100vw;
+    height:100vw;
+    margin:0 12px 12px 0;
+  }
+}
 
 </style>
 
