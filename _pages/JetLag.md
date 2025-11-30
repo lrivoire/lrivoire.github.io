@@ -15,7 +15,12 @@ author_profile: true
   float:left;
   margin:0 40px 0 0;
 }
-
+.page__content .circle-img-left {
+  height:300px !important;
+  width:300px !important;
+  max-width:none !important;
+  max-height:none !important;
+}
 /* MOBILE */
 @media (max-width: 600px) {
   .circle-img-left {
