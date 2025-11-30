@@ -5,18 +5,69 @@ permalink: /JetLag/
 author_profile: true
 ---
 
+<style>
+.circle-img-left {
+  width:300px;
+  height:300px;
+  shape-outside:circle(50%);
+  shape-margin:2px;
+  clip-path:circle(50%);
+  float:left;
+  margin:0 40px 0 0;
+}
+
+/* right text blocks */
+.right-text {
+  text-align:right;
+}
+  
+.text-block-wrapper-right {
+  /* 1. Limit the maximum width of the text block */
+  max-width: 400px; /* Adjust this value to your preferred max width */
+  
+  /* 2. Right-align the *block* itself */
+  margin-left: auto; 
+  margin-right: 200px; /* Ensures it's fully to the right edge of its parent */
+}
+
+.text-block-wrapper-left {
+  /* 1. Limit the maximum width of the text block */
+  max-width: 400px; /* Adjust this value to your preferred max width */
+  
+  margin-left: 200px; 
+  margin-right: auto; 
+}
+
+/* MOBILE */
+@media (max-width: 600px) {
+  .circle-img-left,
+  .circle-img-right {
+    width:35vw;
+    height:35vw;
+    margin:0 12px 12px 0;
+  }
+}
+</style>
+
 {% include base_path %}
 
 {% for post in site.research reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
-
-![](../images/logo2.png)
-
-**The JetLag dataset will be released shortly -- paper under review**<br>
-Access the pre-print: [10.22541/essoar.175760518.83376258/v1](https://www.doi.org/10.22541/essoar.175760518.83376258/v1).<br>
-Sign up for the [JetLag mailing list](https://web.lists.fas.harvard.edu/mailman/lists/jetlag.lists.fas.harvard.edu/) to be notified.<br>
+<img src="/images/logo2.png" class="circle-img-left">
+<div class="text-block-wrapper-left">
+  <h3 style="font-weight:850; margin-bottom:0; margin-top:0;">
+      The JetLag dataset will be released shortly -- paper under review
+  </h3>
+  <p>
+    <span style="font-weight:600;">Access the <a href="https://www.doi.org/10.22541/essoar.175760518.83376258/v1">pre-print</a>.</span>
+  </p>
+  <p>
+    <span style="font-weight:600;">Sign up for the <a href="https://web.lists.fas.harvard.edu/mailman/lists/jetlag.lists.fas.harvard.edu/">mailing list</a>.</span>
+  </p>
+</div>
+<div style="clear:both;"></div>
 
 ---
 
