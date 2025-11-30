@@ -15,20 +15,7 @@ author_profile: true
   clip-path:circle(50%);
   float:left;
   margin:0 40px 0 0;
-}
-
-/* right text blocks */
-.right-text {
-  text-align:right;
-}
-  
-.text-block-wrapper-right {
-  /* 1. Limit the maximum width of the text block */
-  max-width: 400px; /* Adjust this value to your preferred max width */
-  
-  /* 2. Right-align the *block* itself */
-  margin-left: auto; 
-  margin-right: 200px; /* Ensures it's fully to the right edge of its parent */
+  overflow:hidden;
 }
 
 .text-block-wrapper-left {
