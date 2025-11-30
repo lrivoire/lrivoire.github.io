@@ -65,10 +65,10 @@ permalink: /research/
       Atmospheric transport
   </h3>
   <p>
-    How much do climate models overdilute pollutants? I am investigating transport pathways using the concept of "airshed".
+    <span style="font-weight:600;">How much do climate models overdilute pollutants?</span> I am investigating transport pathways using the concept of "airshed".
   </p>
   <p>
-    What is a jet anyway? I am redefining the strongest air currents with a Lagrangian method:
+    <span style="font-weight:600;">What is a jet anyway?</span> I am redefining the strongest air currents with a Lagrangian method:
     <a href="https://lrivoire.github.io/JetLag/">JetLag</a>.
   </p>
 </div>
@@ -81,11 +81,11 @@ permalink: /research/
       Emergence of climate signals
   </h3>
   <p class="right-text">
-    Have we collected enough data? A <a href="https://doi.org/10.1029/2024GL109638">statistical method</a>
+    <span style="font-weight:600;">Have we collected enough data?</span> A <a href="https://doi.org/10.1029/2024GL109638">statistical method</a>
     I developed helps to better understand long-term changes.
   </p>
   <p class="right-text">
-    What kind of additional data do we need? My work has helped to design the next generation of satellites.
+    <span style="font-weight:600;">What kind of additional data do we need?</span> My work has helped to design the next generation of satellites.
   </p>
 </div>
 <div style="clear:both;"></div>
@@ -97,11 +97,10 @@ permalink: /research/
       Atmospheric composition
   </h3>
   <p>
-    How does biomass burning influence chemistry?<br>
-    I am looking for the atmospheric fingerprint of human-induced fires.
+    <span style="font-weight:600;">How does biomass burning influence chemistry?</span> I am looking for the atmospheric fingerprint of human-induced fires.
   </p>
   <p>
-    How confident are we in long-term composition changes? My <a href="https://doi.org/10.5194/acp-25-2269-2025">work</a> shows that
+    <span style="font-weight:600;">How confident are we in long-term composition changes?</span> My <a href="https://doi.org/10.5194/acp-25-2269-2025">work</a> shows that
     satellites distort trends in the ozone layer.
   </p>
 </div>
@@ -115,10 +114,10 @@ permalink: /research/
       Tropical cyclones
   </h3>
   <p class="right-text">
-    Why is it cold above cyclones? My <a href="https://doi.org/10.1175/JCLI-D-19-0813.1">Ph.D. work</a> showed that cyclones cool their tops in an unexpected way.
+    <span style="font-weight:600;">Why is it cold above cyclones?</span> My <a href="https://doi.org/10.1175/JCLI-D-19-0813.1">Ph.D. work</a> showed that cyclones cool their tops in an unexpected way.
   </p>
   <p class="right-text">
-    Could geo-engineering worsen cyclones? I started investigating whether cooling the Earth could come at unexpected costs.
+    <span style="font-weight:600;">Could geo-engineering worsen cyclones?</span> I started investigating whether cooling the Earth could come at unexpected costs.
   </p>
 </div>
 
