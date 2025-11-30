@@ -9,6 +9,7 @@ author_profile: true
 .circle-img-left {
   width:300px;
   height:300px;
+  object-fit:cover;
   shape-outside:circle(50%);
   shape-margin:2px;
   clip-path:circle(50%);
@@ -58,7 +59,7 @@ author_profile: true
 <img src="/images/logo2.png" class="circle-img-left">
 <div class="text-block-wrapper-left">
   <h3 style="font-weight:850; margin-bottom:0; margin-top:0;">
-      The JetLag dataset will be released shortly -- paper under review
+      The JetLag dataset will be released shortly—paper in review.
   </h3>
   <p>
     <span style="font-weight:600;">Access the <a href="https://www.doi.org/10.22541/essoar.175760518.83376258/v1">pre-print</a>.</span>
