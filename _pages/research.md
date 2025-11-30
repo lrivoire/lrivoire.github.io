@@ -61,7 +61,7 @@ permalink: /research/
 <img src="/images/jade_globe_cropped.png" class="circle-img-left">
 
 <div class="text-block-wrapper-left">
-  <h3 style="font-weight:850; margin-bottom:0; font-variant: small-caps;">
+  <h3 style="font-weight:850; margin-bottom:0; margin-top:0; font-variant: small-caps;">
       Atmospheric transport
   </h3>
   <p>
