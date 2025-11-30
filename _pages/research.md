@@ -28,6 +28,15 @@ permalink: /research/
 .right-text {
   text-align:right;
 }
+  
+.text-block-wrapper {
+  /* 1. Limit the maximum width of the text block */
+  max-width: 400px; /* Adjust this value to your preferred max width */
+  
+  /* 2. Right-align the *block* itself */
+  margin-left: auto; 
+  margin-right: 0; /* Ensures it's fully to the right edge of its parent */
+}
 
 /* MOBILE */
 @media (max-width: 600px) {
@@ -60,19 +69,20 @@ permalink: /research/
 
 <!-- BLOCK 2 -->
 <img src="/images/hot_n_cold_globe_cropped.png" class="circle-img-right">
-
-<h3 class="right-text" style="font-weight:850; margin-bottom:0; font-variant: small-caps;">
-    Emergence of climate signals
-</h3>
-<p class="right-text">
-  Have we collected enough data?<br>
-  A <a href="https://doi.org/10.1029/2024GL109638">statistical method</a>
-  I developed helps to better understand long-term changes.
-</p>
-<p class="right-text">
-  What kind of additional data do we need?<br>
-  My work has helped to design the next generation of satellites.
-</p>
+<div class="text-block-wrapper">
+  <h3 class="right-text" style="font-weight:850; margin-bottom:0; font-variant: small-caps;">
+      Emergence of climate signals
+  </h3>
+  <p class="right-text">
+    Have we collected enough data?<br>
+    A <a href="https://doi.org/10.1029/2024GL109638">statistical method</a>
+    I developed helps to better understand long-term changes.
+  </p>
+  <p class="right-text">
+    What kind of additional data do we need?<br>
+    My work has helped to design the next generation of satellites.
+  </p>
+</div>
 
 <div style="clear:both;"></div>
 
