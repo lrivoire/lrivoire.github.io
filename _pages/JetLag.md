@@ -7,8 +7,8 @@ author_profile: true
 
 <style>
 .circle-img-left {
-  width:300px;
-  height:300px;
+  width:100%;
+  height:100%;
   object-fit:cover;
   shape-outside:circle(50%);
   shape-margin:2px;
