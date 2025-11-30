@@ -6,24 +6,22 @@ author_profile: true
 ---
 
 <style>
+/* OVERRIDE THE THEME */
 .circle-img-left {
-  width:100%;
-  height:100%;
-  object-fit:cover;
-  shape-outside:circle(50%);
-  shape-margin:2px;
-  clip-path:circle(50%);
-  float:left;
-  margin:0 40px 0 0;
-  overflow:hidden;
+  max-width:none !important;
+  display:inline-block !important;
 }
 
-.text-block-wrapper-left {
-  /* 1. Limit the maximum width of the text block */
-  max-width: 400px; /* Adjust this value to your preferred max width */
-  
-  margin-left: 200px; 
-  margin-right: auto; 
+/* FLOAT + SHAPES */
+.circle-img-left {
+  width:300px;
+  height:300px;
+  float:left;
+  margin:0 40px 0 0;
+
+  clip-path:circle(50%);
+  shape-outside:circle(50%);
+  shape-margin:0;
 }
 
 /* MOBILE */
@@ -44,17 +42,15 @@ author_profile: true
 {% endfor %}
 
 <img src="/images/logo2.png" class="circle-img-left">
-<div class="text-block-wrapper-left">
-  <h3 style="font-weight:850; margin-bottom:0; margin-top:0;">
-      The JetLag dataset will be released shortly—paper in review.
-  </h3>
-  <p>
-    <span style="font-weight:600;">Access the <a href="https://www.doi.org/10.22541/essoar.175760518.83376258/v1">pre-print</a>.</span>
-  </p>
-  <p>
-    <span style="font-weight:600;">Sign up for the <a href="https://web.lists.fas.harvard.edu/mailman/lists/jetlag.lists.fas.harvard.edu/">mailing list</a>.</span>
-  </p>
-</div>
+<h3 style="font-weight:850; margin-bottom:0; margin-top:0;">
+    The JetLag dataset will be released shortly—paper in review.
+</h3>
+<p>
+  <span style="font-weight:600;">Access the <a href="https://www.doi.org/10.22541/essoar.175760518.83376258/v1">pre-print</a>.</span>
+</p>
+<p>
+  <span style="font-weight:600;">Sign up for the <a href="https://web.lists.fas.harvard.edu/mailman/lists/jetlag.lists.fas.harvard.edu/">mailing list</a>.</span>
+</p>
 <div style="clear:both;"></div>
 
 ---
