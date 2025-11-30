@@ -50,8 +50,8 @@ permalink: /research/
 @media (max-width: 600px) {
   .circle-img-left,
   .circle-img-right {
-    width:100vw;
-    height:100vw;
+    width:60vw;
+    height:60vw;
     margin:0 12px 12px 0;
   }
 }
