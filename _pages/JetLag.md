@@ -7,27 +7,18 @@ author_profile: true
 
 <style>
 .circle-img-left {
-  width:300px !important;
-  height:300px !important;
-
-  float:left !important;
-  margin:0 40px 0 0;
-
-  /* Prevent theme overrides */
-  max-width:none !important;
-  max-height:none !important;
-  display:block !important;
-
-  /* Shape + clipping */
-  clip-path:circle(50%);
+  width:300px;
+  height:300px;
   shape-outside:circle(50%);
-  shape-margin:0;
+  shape-margin:2px;
+  clip-path:circle(50%);
+  float:left;
+  margin:0 40px 0 0;
 }
 
 /* MOBILE */
 @media (max-width: 600px) {
-  .circle-img-left,
-  .circle-img-right {
+  .circle-img-left {
     width:35vw;
     height:35vw;
     margin:0 12px 12px 0;
@@ -46,15 +37,6 @@ author_profile: true
   <span style="font-weight:600;">Sign up for the <a href="https://web.lists.fas.harvard.edu/mailman/lists/jetlag.lists.fas.harvard.edu/">mailing list</a>.</span>
 </p>
 <div style="clear:both;"></div>
-
-
-
-{% include base_path %}
-
-{% for post in site.research reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
 
 ---
 
