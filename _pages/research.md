@@ -35,7 +35,7 @@ permalink: /research/
   
   /* 2. Right-align the *block* itself */
   margin-left: auto; 
-  margin-right: 0; /* Ensures it's fully to the right edge of its parent */
+  margin-right: 200px; /* Ensures it's fully to the right edge of its parent */
 }
 
 /* MOBILE */
