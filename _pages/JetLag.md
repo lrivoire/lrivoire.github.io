@@ -14,7 +14,7 @@ author_profile: true
 
 ![](../images/logo2.png)
 
-**The JetLag dataset will be released shortly -- paper under review**<br>
+**The JetLag dataset will be released shortly -- paper accepted for publication**<br>
 Access the pre-print: [10.22541/essoar.175760518.83376258/v1](https://www.doi.org/10.22541/essoar.175760518.83376258/v1).<br>
 Sign up for the [JetLag mailing list](https://web.lists.fas.harvard.edu/mailman/lists/jetlag.lists.fas.harvard.edu/) to be notified.<br>
 
