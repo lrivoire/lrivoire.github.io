@@ -13,8 +13,7 @@ author_profile: true
 
 **How to spot online lies before you hit "share"**
 
-Disinformation, or deliberate misinformation, has a long history, from political propaganda in ancient empires to modern digital manipulation. The world has witnessed a sharp uptick in disinformation campaigns in recent years, such that disinformation is now rampant. Whether it is about climate change, elections, vaccines, or other conspiracy theories, whether it is spread by state actors, news sources, social media, celebrities, or word of mouth, disinformation is affecting our ability to agree even on facts. Personally, I find that troubling. Disinformation is designed to promote uncertainty, apathy, distrust, and paranoia, and it affects all of us. Disinformation is also designed to be difficult to spot, so as to take advantage of the current era of fast, free, and virtually unlimited information. Luckily, we can spot disinformation, if we know what to look for:
-<!-- In its early form, disinformation was used to aid military tactics or to sway the public opinion in favor of a cause or against it. Since the 1920s, disinformation has also been used to manipulate enemy nations' intelligence agencies by strategically exposing them to credible--but misleading--information. -->
+Disinformation is designed to mislead, confuse, and erode trust, and it has become easier than ever to spread. Whether it is spread by state actors, news sources, social media, celebrities, or word of mouth, disinformation affects all of us. Luckily, we can spot it if we know what to look for:
 
 -   **Exaggeration**, alarmism based on anecdotes, cherry picking, one-sided arguments, parallels with extreme ideologies, miracle solutions;
 -   **Speculation** ("isn't it weird that...?"), absence of verifiable sources, hearsay, insubstantial statements, reasoning based on hard-to-verify factoids, slippery slope arguments (a small event triggers a cascade of inevitable negative outcomes);
@@ -22,19 +21,17 @@ Disinformation, or deliberate misinformation, has a long history, from political
 -   **Call to emotions** more often negative than positive, fixation on alleged scandals or unusual events;
 -   **Call to distrust** governments and institutions, science and technology, undefined entities ("they") that are said to be lying to/acting against the entire population, call to consider 'mainstream ideas' as inherently wrong.
 
-Disinformation also exploits cognitive biases to spread more efficiently. Cognitive biases arise from the fact that we do not simply **have** knowledge of the world around us. Rather, our understanding of the world is based on the **interpretation** of what we can observe--our cognition. However, our cognition depends on our emotional state and ability to think critically, and on the quality and completeness of our observations. Our cognition can be biased in many ways, a few of which are illustrated below:
+These tactics work because they exploit cognitive biases: shortcuts in how we interpret information, especially under emotional or time pressure. A few are illustrated below (illustrations original, all rights reserved):
 
 **CONFIRMATION BIAS** (the M.O.A.B.)
 
-Perhaps linked to a human tendency to seek confirmation over refutation, confirmation bias is ubiquitous. At its most basic, confirmation bias is the tendency to interpret information in a way that favors one's prior beliefs or knowledge:
+Confirmation bias—the tendency to favor information that supports existing beliefs over information that challenges them—is widespread and likely reflects a general human preference for confirmation over refutation.
 
 ![](../images/biases/confirmation.png)
 
-A benign example is cloud watching and trying to spot a shape that someone else described for us (let’s say a whale); we might very well find said shape, but without the other person’s description it is likely that we would have interpreted the cloud as a different shape.
+A harmless example is cloud watching: if someone points out a shape (say, a whale), we can often “see” it too, even though we might have interpreted the cloud differently without that prompt.
 
-Less benign yet are the known effects of confirmation biases in jury trials, healthcare, job recruitment, and in scientific research at large. Confirmation biases are thought to lead to the persistence of discredited ideas and to the polarization of opinions. The bias is stronger for emotionally charged issues and for deeply entrenched beliefs such as those at the heart of identity-driven controversies.
-
-When interpreting information, our judgment is often affected by many other cognitive biases. Here are a few more examples of cognitive biases (illustrations original, all rights reserved):
+In more consequential settings (jury decisions, healthcare, hiring, and scientific research), confirmation bias can reinforce false ideas and deepen polarization, especially around emotionally charged or identity-linked issues.
 
 **MERE-EXPOSURE EFFECT** (preference for early information, the basis for advertisement):
 
