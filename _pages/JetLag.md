@@ -58,7 +58,7 @@ The $\mathcal{M}$ function highlights organizing features of the flow that remai
 
 **What does JetLag provide?**<br>
 
-A [dataset](doi.org/10.5281/zenodo.16178219) based on ECMWF's ERA5 reanalysis 1941-2025 is available for the subtropical jets and the polar front jets.
+A [dataset](https://www.doi.org/10.5281/zenodo.16178219) based on ECMWF's ERA5 reanalysis 1941-2025 is available for the subtropical jets and the polar front jets.
 
 Other products will be released over time, including products for CMIP6/7 and LENS2 simulations.<br>
 
