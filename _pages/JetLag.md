@@ -24,7 +24,7 @@ Sign up for the [JetLag mailing list](https://web.lists.fas.harvard.edu/mailman/
 
 **What is JetLag?**<br>
 
-JetLag is a jet tracking algorithm conceptualized in collaboration with [Dr. Jezabel Curbelo](https://web.mat.upc.edu/jezabel.curbelo/) (Universitat Politècnica de Catalunya/BarcelonaTech) with the financial support of [Centre de Recerca Matemàtica](https://www.crm.cat/) (Universitat Autònoma de Barcelona). Dr. Marinna Linz (Harvard University) also provided support for this project.<br>
+JetLag is a jet tracking algorithm conceptualized in collaboration with [Dr. Jezabel Curbelo](https://web.mat.upc.edu/jezabel.curbelo/) (Universitat Politècnica de Catalunya/BarcelonaTech) with the partial financial support of [Centre de Recerca Matemàtica](https://www.crm.cat/).<br>
 JetLag relies on Lagrangian descriptors of the general circulation, hence the name.
 
 ---
@@ -33,13 +33,13 @@ JetLag relies on Lagrangian descriptors of the general circulation, hence the na
 
 Many jet tracking algorithms already exist, but significant limitations remain:
 
-* Most algorithms define the jets in the Eulerian framework (instantaneous or time-averaged meteorological fields) and therefore overlook the coherence and behavior of jets over time;
+* Jets are usually defined in the Eulerian perspective (using instantaneous or time-averaged meteorological fields) and therefore do not explicitly account for the meandering of jets over time;
 
-  _JetLag defines jets as Lagrangian coherent structures to account for their spatial <em>and</em> temporal coherence_
+  _JetLag defines jets as Lagrangian features to account for their spatial <em>and</em> temporal coherence_
 
-* Most algorithms rely on a variety of empirical, climatological parameters to define jet features (e.g. latitude and wind magnitude thresholds). Such algorithms are tailored to a particular state of the climate and may not be suited to other climate states;
+* Jet diagnostics rely on a variety of ad hoc empirical and climatological parameters (e.g., fixed latitude bands, wind-speed cutoffs). These choices tie the jet diagnostic to a specific climate state;
 
-  _JetLag's 2 parameters are rooted in wave dynamics and independent of the state of the climate_
+  _JetLag's 2 parameters are rooted in wave dynamics, and JetLag exhibits extremely low sensitivity to them_
 
 * Most algorithms are tailored to track either the subtropical jet or the polar front jet, but not both;
 
@@ -49,22 +49,23 @@ Many jet tracking algorithms already exist, but significant limitations remain:
 
 **How does JetLag work?**<br>
 
-The algorithm uses a Lagrangian descriptor of the general circulation, the 'M function', which is defined at any location (x,y,z,t) as the length of the Lagrangian parcel trajectory initiated at (x,y,z,t) and integrated over a chosen time interval {t-$\tau$ ; t+$\tau$}. The main parameter used in JetLag is the length of that time interval, $\tau$, which can be determined objectively based on the scales of interest, and to which the output exhibits virtually no sensitivity.
+JetLag is based on a Lagrangian descriptor of the atmospheric circulation known as the $\mathcal{M}$ function. At any point (x,y,z,t), the $\mathcal{M}$ function measures the length of an air parcel's trajectory initiated at (x,y,z,t) and integrated forward and backward in time over an interval {t-$\tau$ ; t+$\tau$}. The key parameter in JetLag is the integration time 
+$\tau$, which can be determined objectively based on the scales of interest, and to which the output exhibits virtually no sensitivity.
 
-The M function highlights Lagrangian coherent structures--organizing features of the circulation that correspond to maxima in atmospheric displacement and that are invariant over the chosen integration interval. JetLag relies on these features to locate jets that are coherent in space and in time, effectively separating jets from underlying waves.
+The $\mathcal{M}$ function highlights organizing features of the flow that remain coherent over the integration interval. JetLag exploits these structures to identify jets that are coherent in both space and time, effectively separating jets from transient wave activity.
 
 ---
 
 **What does JetLag provide?**<br>
 
-A dataset based on [ERA5](https://www.ecmwf.int/en/forecasts/dataset/ecmwf-reanalysis-v5) is ready for 1941-2020 for the subtropical jets and the polar front jets. We expect its public release in the coming months along with a paper detailing the methods.
+A [dataset](doi.org/10.5281/zenodo.16178219) based on ECMWF's ERA5 reanalysis 1941-2025 is available for the subtropical jets and the polar front jets.
 
-Other products will be released over time, including products for CMIP6/7 and [LENS](https://www.cesm.ucar.edu/community-projects/lens) simulations.<br>
+Other products will be released over time, including products for CMIP6/7 and LENS2 simulations.<br>
 
 Contact us if you are interested in a product that is not available.<br>
 
 ---
 
-**Can I get involved?**<br>
+**How do I get in touch?**<br>
 
-We'd love to hear your thoughts. You can reach out to us via the mailing list (once you've subscribed, email: jetlag-owner \[replace with at symbol\] lists (dot) fas (dot) harvard (dot) edu) or directly via my professional email (lrivoire \[replace with at symbol\] mit (dot) edu).
+Feel free to email me directly. We also have a mailing list: email with 'subscribe' in the subject to jetlag-join@lists.fas.harvard.edu
