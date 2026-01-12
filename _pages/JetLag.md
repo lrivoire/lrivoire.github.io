@@ -12,7 +12,7 @@ author_profile: true
 {% endfor %}
 
 
-![](../images/logo2.png)
+![](../images/jetlad_ad_winter.gif)
 
 **The JetLag dataset will be released shortly -- paper accepted for publication**<br>
 Access the pre-print: [10.22541/essoar.175760518.83376258/v1](https://www.doi.org/10.22541/essoar.175760518.83376258/v1).<br>
