@@ -11,8 +11,10 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-
-![](../images/jetlad_ad_winter.gif)
+<div style="max-width:800px; margin:auto; text-align:center;">
+  <img src="../images/jetlag_ad_winter.gif" alt="Eulerian vs. Lagrangian jet comparison"
+       style="max-width:100%; height:auto; display:inline-block;">
+</div>
 
 **The JetLag dataset will be released shortly -- paper accepted for publication**<br>
 Access the pre-print: [10.22541/essoar.175760518.83376258/v1](https://www.doi.org/10.22541/essoar.175760518.83376258/v1).<br>
