@@ -11,7 +11,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-<div style="max-width:800px; margin:auto; text-align:left;">
+<div style="max-width:800px; margin:0; text-align:left;">
   <img src="../images/jetlag_ad_winter.gif" alt="Eulerian vs. Lagrangian jet comparison"
        style="max-width:100%; height:auto; display:inline-block;">
 </div>
