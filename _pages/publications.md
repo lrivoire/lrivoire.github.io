@@ -9,8 +9,8 @@ author_profile: true
 
 | Year | Title | Journal | Summary |
 |:---:|---|---|---|
-| _under review_ | [Tracking jet streams as Lagrangian objects](https://doi.org/10.22541/essoar.175760518.83376258/v1) | accepted | Jets can be detected from flow geometry |
-| _in prep_ | Towards robust measures of pollutant mixing | tbd | Mixing may be inferred from observations instead of model data |
+| _under review_ | [Tracking jet streams as Lagrangian objects](https://doi.org/10.22541/essoar.175760518.83376258/v1) | _accepted_ | Jets can be detected from flow geometry |
+| _in prep_ | Reconstructing long-range pollutant transport from incomplete data | _in prep_ | Dynamics allow to infer tracer mixing rates from space |
 | 2025 | [Satellite nadir-viewing geometry affects the magnitude and detectability of long-term trends in stratospheric ozone](https://doi.org/10.5194/acp-25-2269-2025) | Atmos. Chem. Phys. | Satellites distort long-term trends | 
 | 2024 | [Observational limitations to the emergence of climate signals](https://doi.org/10.1029/2024GL109638) | Geophys. Res. Lett. | Signal detection is a function of data quality |
 | 2020 | [Quantifying the radiative impact of clouds on tropopause layer cooling in tropical cyclones](https://doi.org/10.1175/JCLI-D-19-0813.1) | J. Clim. | Hurricanes must cool their tops via dynamics, not radiation |
