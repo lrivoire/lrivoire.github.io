@@ -16,8 +16,9 @@ author_profile: true
        style="max-width:100%; height:auto; display:inline-block;">
 </div>
 
-**The JetLag dataset will be released shortly -- paper conditionally accepted for publication**<br>
-Access the pre-print: [10.22541/essoar.175760518.83376258/v1](https://www.doi.org/10.22541/essoar.175760518.83376258/v1).<br>
+**Methods paper accepted for publication in Commun. Earth Env.**<br>
+Access the [pre-print](https://www.doi.org/10.22541/essoar.175760518.83376258/v1).<br>
+Access the [dataset](https://doi.org/10.5281/zenodo.16178219).<br>
 Sign up for the [JetLag mailing list](https://web.lists.fas.harvard.edu/mailman/lists/jetlag.lists.fas.harvard.edu/) to be notified.<br>
 
 ---
