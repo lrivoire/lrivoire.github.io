@@ -16,7 +16,7 @@ author_profile: true
        style="max-width:100%; height:auto; display:inline-block;">
 </div>
 
-**Methods paper accepted for publication in Commun. Earth Env.**<br>
+**Paper accepted for publication in Commun. Earth Env.**<br>
 Access the [pre-print](https://www.doi.org/10.22541/essoar.175760518.83376258/v1).<br>
 Access the [dataset](https://doi.org/10.5281/zenodo.16178219).<br>
 Sign up for the [JetLag mailing list](https://web.lists.fas.harvard.edu/mailman/lists/jetlag.lists.fas.harvard.edu/) to be notified.<br>
@@ -25,7 +25,7 @@ Sign up for the [JetLag mailing list](https://web.lists.fas.harvard.edu/mailman/
 
 **What is JetLag?**<br>
 
-JetLag is a jet stream diagnostic algorithm I developed at Harvard/MIT in collaboration with [Dr. Jezabel Curbelo](https://web.mat.upc.edu/jezabel.curbelo/) (BarcelonaTech) with primary funding from [Centre de Recerca Matemàtica](https://www.crm.cat/) and Dr. Marianna Linz.<br>
+JetLag is a jet stream diagnostic algorithm I developed at Harvard and MIT in collaboration with [Dr. Jezabel Curbelo](https://web.mat.upc.edu/jezabel.curbelo/) (BarcelonaTech), with the financial support of [Centre de Recerca Matemàtica](https://www.crm.cat/).<br>
 JetLag relies on Lagrangian descriptors of the general circulation, hence the name.
 
 ---
