@@ -13,6 +13,8 @@ Download my [CV](/files/CV.pdf) or contact me for a resume.
 
 Professional Experience (past 10 years)
 ======
+Research Scientist, **Weizmann Institute of Science**, 2026-present
+
 Postdoctoral Associate, **MIT**, 2024-present
 
 Flight Mission Consultant, **JPL/Caltech**, 2021-2023 
