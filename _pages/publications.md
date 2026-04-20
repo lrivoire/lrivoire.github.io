@@ -5,22 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
-<p align="center"><b><i>1st-authored publications</i></b></p>
-
 | Year | Title | Journal | Summary |
 |:---:|---|---|---|
 | 2026 | [Tracking jet streams as Lagrangian objects](https://doi.org/10.1038/s43247-026-03262-z) | Nature Commun. Earth & Env. | Jets can be detected from flow geometry |
 | _in prep_ | Reconstructing long-range pollutant transport from incomplete data | _in prep_ | Dynamics allow to infer tracer mixing rates from space |
 | 2025 | [Satellite nadir-viewing geometry affects the magnitude and detectability of long-term trends in stratospheric ozone](https://doi.org/10.5194/acp-25-2269-2025) | Atmos. Chem. Phys. | Satellites distort long-term trends | 
+| 2024 | [Age of Stratospheric Air: Progress on Processes, Observations, and Long-Term Trends](https://doi.org/10.1029/2023RG000832) | Rev. Geophys. | Changes in stratospheric circulation remain uncertain |
 | 2024 | [Observational limitations to the emergence of climate signals](https://doi.org/10.1029/2024GL109638) | Geophys. Res. Lett. | Signal detection is a function of data quality |
 | 2020 | [Quantifying the radiative impact of clouds on tropopause layer cooling in tropical cyclones](https://doi.org/10.1175/JCLI-D-19-0813.1) | J. Clim. | Hurricanes must cool their tops via dynamics, not radiation |
 | 2016 | [Evolution of the upper-level thermal structure in tropical cyclones](https://doi.org/10.1002/2016GL070622) | Geophys. Res. Lett. | The top of hurricanes is abnormally cold |
-
-<p align="center"><b><i>co-authored publications</i></b></p>
-
-| Year | Title | Journal | Summary |
-|:---:|---|---|---|
-| 2024 | [Age of Stratospheric Air: Progress on Processes, Observations, and Long-Term Trends](https://doi.org/10.1029/2023RG000832) | Rev. Geophys. | Changes in stratospheric circulation remain uncertain |
 | 2016 | [Dry layers in the tropical troposphere observed during CONTRAST and global behavior from GFS analyses](https://doi.org/10.1002/2016JD025841) | J. Geophys. Res. Atmos. | Stratospheric influence in the tropical troposphere is ubiquitous |
   
 Conference presentations
