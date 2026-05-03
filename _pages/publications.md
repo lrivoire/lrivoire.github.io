@@ -23,6 +23,7 @@ Conference presentations
 
 | Year | Title | Venue | Topic |
 |:---:|---|---|---|
+| 2026 | [A Lagrangian perspective on jet streams](https://meetingorganizer.copernicus.org/EGU26/EGU26-14802.html) | European Geosciences Union General Assembly, Vienna, Austria | Eddy-jet interactions |
 | 2025 | [Defining pollutant plumes as 'chemical-dynamical' objects to track their long-range influence](https://ams.confex.com/ams/105ANNUAL/meetingapp.cgi/Paper/451998) | American Meteorological Society 105th Annual Meeting, New Orleans, LA | Using dynamics _and_ chemistry to track pollution |
 | 2025 | [Tracking the jets as Lagrangian objects](https://ams.confex.com/ams/105ANNUAL/meetingapp.cgi/Paper/452065) | American Meteorological Society 105th Annual Meeting, New Orleans, LA | Jet detection from flow geometry |
 | 2024 | [Tracking the jets as Lagrangian objects](https://meetingorganizer.copernicus.org/EGU24/EGU24-14165.html)| European Geosciences Union General Assembly, Vienna, Austria | Jet dynamics | 
