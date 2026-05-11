@@ -84,11 +84,11 @@ author:
   avatar           : "bio-pic.png"
   bio              : "Postdoctoral Researcher"
   #location         : ""
-  employer         : "MIT"
+  #employer         : ""
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=nmEECtQAAAAJ&hl=en&oi=ao"
   email            : "lrivoire@mit.edu"
-  researchgate     : "https://www.researchgate.net/profile/Louis_Rivoire"
+#  researchgate     : "https://www.researchgate.net/profile/Louis_Rivoire"
   uri              :
   bitbucket        :
   codepen          :
