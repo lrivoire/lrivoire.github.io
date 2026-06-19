@@ -15,7 +15,7 @@ Professional Experience (past 10 years)
 ======
 Research Scientist, **Weizmann Institute of Science**, 2026-present
 
-Postdoctoral Associate, **MIT**, 2024-present
+Postdoctoral Associate, **MIT**, 2024-2026
 
 Flight Mission Consultant, **JPL/Caltech**, 2021-2023 
 
