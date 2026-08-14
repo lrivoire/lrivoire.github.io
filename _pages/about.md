@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<h1 align="center">Welcome!<br>I am an Atmospheric Scientist.</h1>
+<h1 align="center">Welcome!<br>I am an atmospheric scientist.</h1>
 
 <div style="max-width:800px; margin:auto; text-align:center;">
   <img src="../images/merged_loop_2.gif" alt="Earth visualization"
@@ -16,7 +16,7 @@ redirect_from:
 </div>
 
 <div align="center">
-  I study the influence of atmospheric currents in weather, climate, and air quality.<br>I also work to design future satellites,<br> and I love computational art.
+  I study the influence of atmospheric currents on weather, climate, and air quality.<br>I also work to design future satellites,<br> and I love computational art.
 </div>
 
 
