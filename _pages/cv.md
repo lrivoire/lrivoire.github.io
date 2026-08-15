@@ -11,9 +11,9 @@ redirect_from:
 
 Download my [CV](/files/CV.pdf) or contact me for a resume.
 
-Professional Experience (past 10 years)
+Recent Professional Experience
 ======
-Research Scientist, **Weizmann Institute of Science**, 2026-present
+Research Scientist, **Weizmann Institute of Science**, since 2026
 
 Postdoctoral Associate, **MIT**, 2024-2026
 
@@ -21,17 +21,15 @@ Scientific Consultant, **JPL/Caltech**, 2021-2023
 
 Postdoctoral Fellow, **Harvard**, 2020-2024
 
-Graduate Research and Teaching Assistant, **Colorado State University**, 2015-2020
-
 Education
 ======
 Ph.D, Atmospheric Science, **Colorado State University**, 2020
 
 M.S., Geophysics and Climate, **Sorbonne University**, 2015
 
-Diplôme de l'ENS, Environmental Sciences, **Ecole Normale Supérieure**, 2015
+Diplôme de l'ENS, Environmental Sciences, **Ecole Normale Supérieure de Paris**, 2015
 
-B.S., Earth Sciences, **Ecole Normale Supérieure**, 2013
+B.S., Earth Sciences, **Ecole Normale Supérieure de Paris**, 2013
 
 <!-- Publications
 ======
