@@ -17,9 +17,9 @@ Research Scientist, **Weizmann Institute of Science**, since 2026
 
 Postdoctoral Associate, **MIT**, 2024-2026
 
-Scientific Consultant, **JPL/Caltech**, 2021-2023 
+Scientific Consultant, **Jet Propulsion Laboratory - Caltech**, 2021-2023 
 
-Postdoctoral Fellow, **Harvard**, 2020-2024
+Postdoctoral Fellow, **Harvard University**, 2020-2024
 
 Education
 ======
