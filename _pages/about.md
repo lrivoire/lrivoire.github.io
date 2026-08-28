@@ -16,7 +16,7 @@ redirect_from:
 </div>
 
 <div align="center">
-  I study the influence of atmospheric currents on weather, climate, and air quality.<br>I also work to design future satellites,<br> and I love computational art.
+  I study the influence of air currents on weather, climate, and air quality.<br>I also work to design future satellites,<br> and I love computational art.
 </div>
 
 
