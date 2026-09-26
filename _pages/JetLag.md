@@ -18,7 +18,6 @@ author_profile: true
 
 Access the [paper (Commun. Earth Env)](https://doi.org/10.1038/s43247-026-03262-z).<br>
 Access the [dataset](https://doi.org/10.5281/zenodo.16178219).<br>
-Sign up for the [JetLag mailing list](https://web.lists.fas.harvard.edu/mailman/lists/jetlag.lists.fas.harvard.edu/) to be notified.<br>
 
 ---
 
@@ -68,4 +67,4 @@ Contact us if you are interested in a product that is not available.<br>
 
 **How do I get in touch?**<br>
 
-Feel free to email me directly. We also have a mailing list: email with 'subscribe' in the subject to jetlag-join@lists.fas.harvard.edu
+Feel free to email me directly
