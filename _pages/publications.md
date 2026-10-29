@@ -7,8 +7,8 @@ author_profile: true
 
 | Year | Title | Journal | Summary |
 |:---:|---|---|---|
-|  | Connectivity clusters as dynamical constraints on pollutant mixing and aging | _under review_ | Pollutants spread within "airsheds" |
-| 2026 | Tropospheric Ozone Assessment Report, Phase II: changing health impacts of global ozone exposure | Phil. Trans. R. Soc. A |  |
+|  | Connectivity clusters as dynamical constraints on pollutant mixing and aging | _under review_ | "Airsheds" help to track pollutants as they spread |
+| 2026 | [Tropospheric Ozone Assessment Report, Phase II: changing health impacts of global ozone exposure](https://royalsocietypublishing.org/rsta/article/384/2332/20250268/483459/Tropospheric-Ozone-Assessment-Report-II-Changing) | Phil. Trans. R. Soc. A |  |
 | 2026 | [Tracking jet streams as Lagrangian objects](https://doi.org/10.1038/s43247-026-03262-z) | Communication Earth & Environment | Jet structures emerge from the topology of the flow field |
 | 2025 | [Satellite nadir-viewing geometry affects the magnitude and detectability of long-term trends in stratospheric ozone](https://doi.org/10.5194/acp-25-2269-2025) | Atmospheric Chemistry and Physics | Satellites distort long-term trends | 
 | 2024 | [Age of Stratospheric Air: Progress on Processes, Observations, and Long-Term Trends](https://doi.org/10.1029/2023RG000832) | Reviews of Geophysics | Despite progress, observed changes in stratospheric circulation remain uncertain |
