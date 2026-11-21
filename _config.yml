@@ -87,7 +87,7 @@ author:
   #employer         : ""
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=nmEECtQAAAAJ&hl=en"
-  email            : "lrivoire@mit.edu"
+  email            : "louis.rivoire@weizmann.ac.il"
 #  researchgate     : "https://www.researchgate.net/profile/Louis_Rivoire"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"@hurricane_louis"
+  twitter          :
   vine             :
   weibo            :
   xing             :
